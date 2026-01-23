@@ -2,7 +2,7 @@
 
 A Clinical NLP pipeline for extracting structured information from free-text medical notes using Clinical Named Entity Recognition (CNER).
 
---
+---
 
 ### Overview
 
@@ -10,7 +10,7 @@ Clinical records are often stored as unstructured narrative text, which limits t
 
 The project is intentionally scoped as a proof of concept and emphasises clarity, reproducibility, and responsible handling of clinical text.
 
---
+---
 
 ### Pipeline Summary
 
@@ -42,7 +42,7 @@ The pipeline follows these steps:
 7. **Ethics and limitations reflection**  
    Document ethical considerations, known limitations, and potential future extensions.
 
---
+---
 
 ### Dataset
 
@@ -55,7 +55,7 @@ Please obtain it directly from the original source:
 
 All processing is performed on de-identified clinical text.
 
---
+---
 
 ### Model
 
@@ -65,7 +65,7 @@ All processing is performed on de-identified clinical text.
 
 The model is used **without fine-tuning** to demonstrate out-of-the-box clinical entity extraction.
 
---
+---
 
 ### Outputs
 
@@ -80,7 +80,7 @@ The pipeline produces the following artefacts:
 - `hitl_review_log.csv`  
   Human-in-the-loop review template with fields intended to be completed by a clinician or qualified domain expert.
 
---
+---
 
 ### Human-in-the-Loop (HITL)
 
@@ -89,7 +89,7 @@ The HITL review log is intentionally provided as a **template** to illustrate ho
 
 Annotation fields are expected to be completed by a clinician or domain expert in real-world use.
 
---
+---
 
 ### Ethics and Limitations
 
@@ -98,7 +98,7 @@ Annotation fields are expected to be completed by a clinician or domain expert i
 - Model outputs may include spurious entities or label ambiguities.
 - The pipeline is illustrative and not intended for direct clinical deployment.
 
---
+---
 
 ### How to Run
 
@@ -111,7 +111,7 @@ Annotation fields are expected to be completed by a clinician or domain expert i
 
 4. Execute cells sequentially to reproduce all outputs.
 
---
+---
 
 ### Repository Contents
 
@@ -120,7 +120,7 @@ Annotation fields are expected to be completed by a clinician or domain expert i
 - `entities_wide.csv` — structured entity output (wide format)  
 - `hitl_review_log.csv` — HITL annotation template  
 
---
+---
 
 ### License
 

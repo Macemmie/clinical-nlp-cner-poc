@@ -2,7 +2,7 @@
 
 ### clinical-nlp-cner-poc
 
-A compact Clinical Natural Language Processing (NLP) proof-of-concept for converting unstructured clinical text into structured, AI-ready data using Clinical Named Entity Recognition (CNER).
+A compact Clinical Natural Language Processing (NLP) proof-of-concept for converting unstructured clinical text into structured data using Clinical Named Entity Recognition (CNER).
 
 This project focuses on clarity, reproducibility, and responsible handling of clinical text, rather than model training or large-scale evaluation.
 

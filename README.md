@@ -1,18 +1,18 @@
-# clinical-nlp-cner-poc
+## clinical-nlp-cner-poc
 
 A Clinical NLP pipeline for extracting structured information from free-text medical notes using Clinical Named Entity Recognition (CNER).
 
----
+-
 
-## Overview
+### Overview
 
 Clinical records are often stored as unstructured narrative text, which limits their direct use in data-driven analysis and AI systems. This project demonstrates a focused, end-to-end pipeline for converting free-text clinical notes into structured, machine-readable data using a pre-trained transformer-based CNER model.
 
 The project is intentionally scoped as a proof of concept and emphasises clarity, reproducibility, and responsible handling of clinical text.
 
----
+-
 
-## Pipeline Summary
+### Pipeline Summary
 
 The pipeline follows these steps:
 
@@ -42,9 +42,9 @@ The pipeline follows these steps:
 7. **Ethics and limitations reflection**  
    Document ethical considerations, known limitations, and potential future extensions.
 
----
+-
 
-## Dataset
+### Dataset
 
 This project uses the **MTSamples medical transcription dataset**, available publicly via Kaggle.
 
@@ -55,9 +55,9 @@ Please obtain it directly from the original source:
 
 All processing is performed on de-identified clinical text.
 
----
+-
 
-## Model
+### Model
 
 - **Model:** `nlpie/clinical-distilbert-i2b2-2010`
 - **Type:** Pre-trained transformer-based Clinical NER model
@@ -65,9 +65,9 @@ All processing is performed on de-identified clinical text.
 
 The model is used **without fine-tuning** to demonstrate out-of-the-box clinical entity extraction.
 
----
+-
 
-## Outputs
+### Outputs
 
 The pipeline produces the following artefacts:
 
@@ -80,27 +80,27 @@ The pipeline produces the following artefacts:
 - `hitl_review_log.csv`  
   Human-in-the-loop review template with fields intended to be completed by a clinician or qualified domain expert.
 
----
+-
 
-## Human-in-the-Loop (HITL)
+### Human-in-the-Loop (HITL)
 
 Automated extraction outputs should not be treated as clinically authoritative.  
 The HITL review log is intentionally provided as a **template** to illustrate how expert validation can be integrated into the pipeline.
 
 Annotation fields are expected to be completed by a clinician or domain expert in real-world use.
 
----
+-
 
-## Ethics and Limitations
+### Ethics and Limitations
 
 - The project uses only public, de-identified clinical text.
 - No attempt is made to infer sensitive attributes or re-identify individuals.
 - Model outputs may include spurious entities or label ambiguities.
 - The pipeline is illustrative and not intended for direct clinical deployment.
 
----
+-
 
-## How to Run
+### How to Run
 
 1. Open the notebook:
    `Clinical_NLP_Mini_Project.ipynb`
@@ -111,18 +111,18 @@ Annotation fields are expected to be completed by a clinician or domain expert i
 
 4. Execute cells sequentially to reproduce all outputs.
 
----
+-
 
-## Repository Contents
+### Repository Contents
 
 - `Clinical_NLP_Mini_Project.ipynb` — full step-by-step pipeline  
 - `entities_long.csv` — structured entity output (long format)  
 - `entities_wide.csv` — structured entity output (wide format)  
 - `hitl_review_log.csv` — HITL annotation template  
 
----
+-
 
-## License
+### License
 
 This repository contains original code and derived outputs.  
 Please refer to the original dataset source for dataset licensing terms.

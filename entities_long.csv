@@ -1,0 +1,1708 @@
+note_id,sample_name,medical_specialty,entity_text,label,start,end,score
+0, Well-Child Check - 7 , Pediatrics - Neonatal,sore throat,PROBLEM,160,171,0.9960236549377441
+0, Well-Child Check - 7 , Pediatrics - Neonatal,fevers,PROBLEM,179,185,0.9976904392242432
+0, Well-Child Check - 7 , Pediatrics - Neonatal,Enfamil Lipil,TREATMENT,440,453,0.9412074089050293
+0, Well-Child Check - 7 , Pediatrics - Neonatal,acute distress,PROBLEM,710,724,0.9899880290031433
+0, Well-Child Check - 7 , Pediatrics - Neonatal,rash,PROBLEM,748,752,0.9922183752059937
+0, Well-Child Check - 7 , Pediatrics - Neonatal,lesion,PROBLEM,756,762,0.9921269416809082
+0, Well-Child Check - 7 , Pediatrics - Neonatal,masses,PROBLEM,1207,1213,0.6218898296356201
+1, Well-Child Check - 6 , Pediatrics - Neonatal,Mom and,PROBLEM,35,42,0.7661863565444946
+1, Well-Child Check - 6 , Pediatrics - Neonatal,Dad,PROBLEM,43,46,0.9079017043113708
+1, Well-Child Check - 6 , Pediatrics - Neonatal,behavioral concerns,PROBLEM,326,345,0.9605100154876709
+1, Well-Child Check - 6 , Pediatrics - Neonatal,concerns,PROBLEM,514,522,0.8582916855812073
+1, Well-Child Check - 6 , Pediatrics - Neonatal,hearing,PROBLEM,528,535,0.976195752620697
+1, Well-Child Check - 6 , Pediatrics - Neonatal,vision,PROBLEM,539,545,0.9619655609130859
+1, Well-Child Check - 6 , Pediatrics - Neonatal,Temperature,TEST,1080,1091,0.7360395789146423
+1, Well-Child Check - 6 , Pediatrics - Neonatal,Blood,TEST,1098,1103,0.6717994809150696
+1, Well-Child Check - 6 , Pediatrics - Neonatal,acute distress,PROBLEM,1234,1248,0.9950809478759766
+2, Well-Child Check - 4 , Pediatrics - Neonatal,Mom,PROBLEM,39,42,0.7163287997245789
+2, Well-Child Check - 4 , Pediatrics - Neonatal,concerns,PROBLEM,343,351,0.8642807602882385
+2, Well-Child Check - 4 , Pediatrics - Neonatal,hearing,PROBLEM,357,364,0.9886576533317566
+2, Well-Child Check - 4 , Pediatrics - Neonatal,vision,PROBLEM,368,374,0.9804875254631042
+2, Well-Child Check - 4 , Pediatrics - Neonatal,Tylenol,TREATMENT,661,668,0.9811912178993225
+2, Well-Child Check - 4 , Pediatrics - Neonatal,a multivitamin,TREATMENT,714,728,0.674338698387146
+2, Well-Child Check - 4 , Pediatrics - Neonatal,afebrile,PROBLEM,938,946,0.6349776983261108
+2, Well-Child Check - 4 , Pediatrics - Neonatal,drooling,PROBLEM,1069,1077,0.7786663770675659
+2, Well-Child Check - 4 , Pediatrics - Neonatal,lymphadenopathy,PROBLEM,1418,1433,0.9753322005271912
+3, Well-Child Check - 5 , Pediatrics - Neonatal,some spitting up,PROBLEM,114,130,0.9233288168907166
+3, Well-Child Check - 5 , Pediatrics - Neonatal,some spitting up,PROBLEM,256,272,0.9163615703582764
+3, Well-Child Check - 5 , Pediatrics - Neonatal,some curdled appearance,PROBLEM,326,349,0.9526023268699646
+3, Well-Child Check - 5 , Pediatrics - Neonatal,projectile,PROBLEM,358,368,0.723059892654419
+3, Well-Child Check - 5 , Pediatrics - Neonatal,nonbilious,PROBLEM,380,390,0.8331639766693115
+3, Well-Child Check - 5 , Pediatrics - Neonatal,birth,TEST,768,773,0.9018161296844482
+3, Well-Child Check - 5 , Pediatrics - Neonatal,hepatitis,TREATMENT,889,898,0.9693480134010315
+3, Well-Child Check - 5 , Pediatrics - Neonatal,known medical allergies,PROBLEM,968,991,0.7943139672279358
+3, Well-Child Check - 5 , Pediatrics - Neonatal,medications,TREATMENT,996,1007,0.5559899806976318
+3, Well-Child Check - 5 , Pediatrics - Neonatal,Mylicon drops,TREATMENT,1023,1036,0.977848470211029
+3, Well-Child Check - 5 , Pediatrics - Neonatal,cardiovascular disease,PROBLEM,1084,1106,0.9841702580451965
+3, Well-Child Check - 5 , Pediatrics - Neonatal,hypertension,PROBLEM,1108,1120,0.9972726702690125
+3, Well-Child Check - 5 , Pediatrics - Neonatal,diabetes mellitus,PROBLEM,1122,1139,0.9789233207702637
+3, Well-Child Check - 5 , Pediatrics - Neonatal,thyroid problems,PROBLEM,1144,1160,0.9952778816223145
+3, Well-Child Check - 5 , Pediatrics - Neonatal,breast,PROBLEM,1249,1255,0.8347325325012207
+3, Well-Child Check - 5 , Pediatrics - Neonatal,colon,PROBLEM,1257,1262,0.9581161737442017
+3, Well-Child Check - 5 , Pediatrics - Neonatal,ovarian cancer,PROBLEM,1267,1281,0.9777559041976929
+3, Well-Child Check - 5 , Pediatrics - Neonatal,asthma,PROBLEM,1385,1391,0.9958255290985107
+4, Well-Child Check - 2 , Pediatrics - Neonatal,his immunizations,TREATMENT,218,235,0.9554571509361267
+4, Well-Child Check - 2 , Pediatrics - Neonatal,some bumps on his chest,PROBLEM,284,307,0.9670028686523438
+4, Well-Child Check - 2 , Pediatrics - Neonatal,left otitis media,PROBLEM,383,400,0.9990525245666504
+4, Well-Child Check - 2 , Pediatrics - Neonatal,antibiotics,TREATMENT,422,433,0.9959800243377686
+4, Well-Child Check - 2 , Pediatrics - Neonatal,vaginal,TREATMENT,554,561,0.6645276546478271
+4, Well-Child Check - 2 , Pediatrics - Neonatal,complications,PROBLEM,579,592,0.8098247051239014
+4, Well-Child Check - 2 , Pediatrics - Neonatal,fevers,PROBLEM,763,769,0.796231210231781
+4, Well-Child Check - 2 , Pediatrics - Neonatal,other rashes,PROBLEM,774,786,0.9777835607528687
+4, Well-Child Check - 2 , Pediatrics - Neonatal,cough,PROBLEM,791,796,0.9935184121131897
+4, Well-Child Check - 2 , Pediatrics - Neonatal,congestion,PROBLEM,800,810,0.9923783540725708
+4, Well-Child Check - 2 , Pediatrics - Neonatal,vomiting,PROBLEM,815,823,0.9948269724845886
+4, Well-Child Check - 2 , Pediatrics - Neonatal,diarrhea,PROBLEM,827,835,0.9954339861869812
+4, Well-Child Check - 2 , Pediatrics - Neonatal,acute distress,PROBLEM,1132,1146,0.9955494403839111
+4, Well-Child Check - 2 , Pediatrics - Neonatal,Normocephalic,PROBLEM,1155,1168,0.9903496503829956
+4, Well-Child Check - 2 , Pediatrics - Neonatal,atraumatic,PROBLEM,1170,1180,0.9540084600448608
+4, Well-Child Check - 2 , Pediatrics - Neonatal,Tympanic membranes,PROBLEM,1218,1236,0.8829773664474487
+4, Well-Child Check - 2 , Pediatrics - Neonatal,Conjunctivae,PROBLEM,1260,1272,0.9549110531806946
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,Chronic otitis media,PROBLEM,27,47,0.9986136555671692
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,effusion,PROBLEM,53,61,0.9148615598678589
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,Conductive hearing loss,PROBLEM,66,89,0.9984658360481262
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,Chronic otitis media,PROBLEM,119,139,0.9983036518096924
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,effusion,PROBLEM,145,153,0.98525071144104
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,Conductive hearing loss,PROBLEM,158,181,0.9986600875854492
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,Bilateral tympanostomy,TREATMENT,206,228,0.9871604442596436
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,myringotomy tube,TREATMENT,234,250,0.9895300269126892
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,tube,TREATMENT,275,279,0.6495165824890137
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,general mask airway,TREATMENT,310,329,0.8563566207885742
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,chronic otitis media,PROBLEM,462,482,0.9986292719841003
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,effusion,PROBLEM,488,496,0.9577758312225342
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,conductive hearing loss,PROBLEM,501,524,0.9991284012794495
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,outpatient medical therapy,TREATMENT,539,565,0.9891147613525391
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,the procedure,TREATMENT,690,703,0.7604109048843384
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,general mask airway,TREATMENT,891,910,0.938159704208374
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,medium,PROBLEM,998,1004,0.5146177411079407
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,cerumen,TREATMENT,1044,1051,0.8695133924484253
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,a,TREATMENT,1104,1105,0.8522899150848389
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,cerumen,PROBLEM,1106,1113,0.9810499548912048
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,loop,TREATMENT,1114,1118,0.8192212581634521
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,suction,TREATMENT,1125,1132,0.917662501335144
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,tympanic,PROBLEM,1150,1158,0.9743433594703674
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,membrane,TREATMENT,1159,1167,0.6992576718330383
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,signs,PROBLEM,1218,1223,0.6899118423461914
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,any gross retracted pockets,PROBLEM,1227,1254,0.891908586025238
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,cholesteatoma,PROBLEM,1258,1271,0.6621413826942444
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,myringotomy incision,TREATMENT,1275,1295,0.9634857773780823
+5, Tympanostomy & Myringotomy Tube Placement , Pediatrics - Neonatal,tube,TREATMENT,1447,1451,0.6377369165420532
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,cold symptoms,PROBLEM,134,147,0.9982600212097168
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,nasal congestion,PROBLEM,162,178,0.9988387823104858
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,left ear pain,PROBLEM,183,196,0.99897700548172
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,a dry cough,PROBLEM,210,221,0.9621224403381348
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,a fever,PROBLEM,226,233,0.9328355193138123
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,vomiting,PROBLEM,308,316,0.9971639513969421
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,diarrhea,PROBLEM,320,328,0.9990022778511047
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,Tylenol Cough,TREATMENT,347,360,0.9768834710121155
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,Tylenol,TREATMENT,382,389,0.8698210120201111
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,respiratory infection,PROBLEM,522,543,0.9977682828903198
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,pneumonia,PROBLEM,559,568,0.9961565136909485
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,otitis media,PROBLEM,573,585,0.9966390132904053
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,some pressure in,PROBLEM,629,645,0.8738964200019836
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,sinuses,PROBLEM,650,657,0.8055887222290039
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,skin rash,PROBLEM,674,683,0.9942271709442139
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,Temp,TEST,837,841,0.8728988766670227
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,pulse,TEST,851,856,0.8986455202102661
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,signs,TEST,889,894,0.8226571083068848
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,air oximetry,TEST,930,942,0.7855707406997681
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,mildly ill,PROBLEM,1068,1078,0.8373163938522339
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,atraumatic,PROBLEM,1110,1120,0.9674074053764343
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,erythema,PROBLEM,1139,1147,0.9989818930625916
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,tonsillar edema,PROBLEM,1149,1164,0.9978901147842407
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,erythema,PROBLEM,1253,1261,0.9967167973518372
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,mild tenderness to percussion,PROBLEM,1284,1313,0.8863780498504639
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,meningismus,PROBLEM,1324,1335,0.9919342994689941
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,enlarged,PROBLEM,1339,1347,0.9098941683769226
+6, URI & Eustachian Congestion , Pediatrics - Neonatal,congestion,PROBLEM,1598,1608,0.9452163577079773
+7, Thyroid Mass Consult , Pediatrics - Neonatal,Thyroid mass,PROBLEM,27,39,0.9986956715583801
+7, Thyroid Mass Consult , Pediatrics - Neonatal,papillary carcinoma,PROBLEM,53,72,0.9989749789237976
+7, Thyroid Mass Consult , Pediatrics - Neonatal,evaluation,TEST,218,228,0.9205388426780701
+7, Thyroid Mass Consult , Pediatrics - Neonatal,treatment,TREATMENT,268,277,0.9753020405769348
+7, Thyroid Mass Consult , Pediatrics - Neonatal,a mass in her thyroid,PROBLEM,281,302,0.9689555168151855
+7, Thyroid Mass Consult , Pediatrics - Neonatal,papillary carcinoma,PROBLEM,336,355,0.9989500045776367
+7, Thyroid Mass Consult , Pediatrics - Neonatal,fine needle aspiration biopsy,TEST,359,388,0.9906492829322815
+7, Thyroid Mass Consult , Pediatrics - Neonatal,a relatively small but noticeable mass,PROBLEM,442,480,0.9156492352485657
+7, Thyroid Mass Consult , Pediatrics - Neonatal,An ultrasound examination,TEST,536,561,0.9863574504852295
+7, Thyroid Mass Consult , Pediatrics - Neonatal,the mass,PROBLEM,603,611,0.9949501156806946
+7, Thyroid Mass Consult , Pediatrics - Neonatal,an evaluation,TEST,733,746,0.9897530674934387
+7, Thyroid Mass Consult , Pediatrics - Neonatal,fine needle aspiration,TEST,783,805,0.9696937203407288
+7, Thyroid Mass Consult , Pediatrics - Neonatal,papillary thyroid carcinoma,PROBLEM,855,882,0.9990866780281067
+7, Thyroid Mass Consult , Pediatrics - Neonatal,hoarseness,PROBLEM,912,922,0.8268100619316101
+7, Thyroid Mass Consult , Pediatrics - Neonatal,difficulty swallowing,PROBLEM,924,945,0.988681435585022
+7, Thyroid Mass Consult , Pediatrics - Neonatal,symptoms,PROBLEM,954,962,0.49563661217689514
+7, Thyroid Mass Consult , Pediatrics - Neonatal,endocrine dysfunction,PROBLEM,966,987,0.990386962890625
+7, Thyroid Mass Consult , Pediatrics - Neonatal,weight changes,PROBLEM,1000,1014,0.9783835411071777
+7, Thyroid Mass Consult , Pediatrics - Neonatal,hyper,PROBLEM,1038,1043,0.9951593279838562
+7, Thyroid Mass Consult , Pediatrics - Neonatal,hypothyroidism,PROBLEM,1047,1061,0.9793334603309631
+7, Thyroid Mass Consult , Pediatrics - Neonatal,thyroid cancer,PROBLEM,1093,1107,0.9907064437866211
+7, Thyroid Mass Consult , Pediatrics - Neonatal,notable discomfort,PROBLEM,1134,1152,0.9715912938117981
+7, Thyroid Mass Consult , Pediatrics - Neonatal,this lesion,PROBLEM,1158,1169,0.9878570437431335
+7, Thyroid Mass Consult , Pediatrics - Neonatal,skin changes,PROBLEM,1190,1202,0.9350276589393616
+7, Thyroid Mass Consult , Pediatrics - Neonatal,head and neck radiation,TREATMENT,1259,1282,0.776321530342102
+7, Thyroid Mass Consult , Pediatrics - Neonatal,unusual,PROBLEM,1303,1310,0.970963716506958
+7, Thyroid Mass Consult , Pediatrics - Neonatal,illnesses,PROBLEM,1442,1451,0.9264737367630005
+7, Thyroid Mass Consult , Pediatrics - Neonatal,surgical procedures,TREATMENT,1474,1493,0.8176107406616211
+7, Thyroid Mass Consult , Pediatrics - Neonatal,drug,PROBLEM,1566,1570,0.7602399587631226
+7, Thyroid Mass Consult , Pediatrics - Neonatal,pain,PROBLEM,1663,1667,0.9258754253387451
+7, Thyroid Mass Consult , Pediatrics - Neonatal,s,PROBLEM,1772,1773,0.6312212347984314
+7, Thyroid Mass Consult , Pediatrics - Neonatal,thyroid,PROBLEM,1813,1820,0.9440283179283142
+7, Thyroid Mass Consult , Pediatrics - Neonatal,cancer,PROBLEM,1894,1900,0.67832350730896
+7, Thyroid Mass Consult , Pediatrics - Neonatal,central,PROBLEM,1991,1998,0.8236671686172485
+7, Thyroid Mass Consult , Pediatrics - Neonatal,syndrome,PROBLEM,2077,2085,0.9570108652114868
+8, Well-Child Check - 3 , Pediatrics - Neonatal,some gas,PROBLEM,309,317,0.7610319256782532
+8, Well-Child Check - 3 , Pediatrics - Neonatal,Mylicon drops,TREATMENT,341,354,0.9956307411193848
+8, Well-Child Check - 3 , Pediatrics - Neonatal,Head circumference,TEST,887,905,0.9075405597686768
+8, Well-Child Check - 3 , Pediatrics - Neonatal,problems,PROBLEM,1211,1219,0.871705174446106
+8, Well-Child Check - 3 , Pediatrics - Neonatal,hypertension,PROBLEM,1224,1236,0.998703122138977
+8, Well-Child Check - 3 , Pediatrics - Neonatal,diabetes,PROBLEM,1248,1256,0.9966974258422852
+8, Well-Child Check - 3 , Pediatrics - Neonatal,mellitus,PROBLEM,1257,1265,0.9848244786262512
+8, Well-Child Check - 3 , Pediatrics - Neonatal,cancer,PROBLEM,1313,1319,0.9970768690109253
+8, Well-Child Check - 3 , Pediatrics - Neonatal,asthma,PROBLEM,1324,1330,0.9986287355422974
+9, Well-Child Check - 1 , Pediatrics - Neonatal,well - child check,TEST,122,138,0.6376144886016846
+9, Well-Child Check - 1 , Pediatrics - Neonatal,drainage from her left eye,PROBLEM,202,228,0.9653521776199341
+9, Well-Child Check - 1 , Pediatrics - Neonatal,a blocked tear duct,PROBLEM,267,286,0.9986993074417114
+9, Well-Child Check - 1 , Pediatrics - Neonatal,crusted secretions,PROBLEM,342,360,0.99789959192276
+9, Well-Child Check - 1 , Pediatrics - Neonatal,a cold,PROBLEM,419,425,0.9711126685142517
+9, Well-Child Check - 1 , Pediatrics - Neonatal,massaging,TREATMENT,446,455,0.8678541779518127
+9, Well-Child Check - 1 , Pediatrics - Neonatal,problems,PROBLEM,531,539,0.5842412710189819
+9, Well-Child Check - 1 , Pediatrics - Neonatal,problems,PROBLEM,609,617,0.610906720161438
+9, Well-Child Check - 1 , Pediatrics - Neonatal,problems,PROBLEM,659,667,0.7717723846435547
+9, Well-Child Check - 1 , Pediatrics - Neonatal,a pincer grasp,PROBLEM,876,890,0.815423309803009
+9, Well-Child Check - 1 , Pediatrics - Neonatal,distress,PROBLEM,1144,1152,0.9120947122573853
+9, Well-Child Check - 1 , Pediatrics - Neonatal,watery secretions,PROBLEM,1350,1367,0.938520610332489
+9, Well-Child Check - 1 , Pediatrics - Neonatal,crusted lashes,PROBLEM,1372,1386,0.687944233417511
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,supraventricular tachycardia,PROBLEM,65,93,0.9988082647323608
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,persistent cyanosis,PROBLEM,98,117,0.9976111650466919
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,term,PROBLEM,149,153,0.5086703300476074
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,perinatal issues,PROBLEM,194,210,0.8665773272514343
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,quite dusky,PROBLEM,268,279,0.8489227294921875
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,significant duskiness,PROBLEM,479,500,0.9947218894958496
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,some irritability,PROBLEM,502,519,0.9930510520935059
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,rapid heart rate,PROBLEM,525,541,0.9934774041175842
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,increased respiratory effort,PROBLEM,638,666,0.9874958395957947
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,diaphoresis,PROBLEM,671,682,0.993826687335968
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,a narrow complex tachycardia,PROBLEM,825,853,0.9980409145355225
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,successful cardioversion,TREATMENT,909,933,0.8613128662109375
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,adenosine,TREATMENT,955,964,0.9970458149909973
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,The electrocardiogram,TEST,966,987,0.9874247312545776
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,the cardioversion,TREATMENT,998,1015,0.7094645500183105
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,a right atrial enlargement,PROBLEM,1058,1084,0.9883173704147339
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,northwest,PROBLEM,1086,1095,0.5220233798027039
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,poor R - wave progression,PROBLEM,1106,1129,0.9373642206192017
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,right ventricular hypertrophy,PROBLEM,1140,1169,0.9971972107887268
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,FAMILY,TEST,1171,1177,0.5651405453681946
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,a small ventricular septal defect,PROBLEM,1252,1285,0.9985882043838501
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,complete,PROBLEM,1339,1347,0.5808076858520508
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,GENERAL,TEST,1479,1486,0.9766004085540771
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,Physical examination,TEST,1488,1508,0.9806817770004272
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,sedated,PROBLEM,1523,1530,0.549100935459137
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,acute distress,PROBLEM,1562,1576,0.961641788482666
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,VITAL,PROBLEM,1578,1583,0.6028676629066467
+10, Supraventricular Tachycardia - Consult , Pediatrics - Neonatal,murmur,PROBLEM,2001,2007,0.5155802965164185
+11, Sports Physical - 3 , Pediatrics - Neonatal,congested,PROBLEM,137,146,0.9191800355911255
+11, Sports Physical - 3 , Pediatrics - Neonatal,allergic,PROBLEM,180,188,0.9912545680999756
+11, Sports Physical - 3 , Pediatrics - Neonatal,grasses,PROBLEM,192,199,0.41312292218208313
+11, Sports Physical - 3 , Pediatrics - Neonatal,counter,TREATMENT,225,232,0.4454593062400818
+11, Sports Physical - 3 , Pediatrics - Neonatal,Claritin,TREATMENT,233,241,0.9829167723655701
+11, Sports Physical - 3 , Pediatrics - Neonatal,some dryness on his face,PROBLEM,324,348,0.9762476682662964
+11, Sports Physical - 3 , Pediatrics - Neonatal,Claritin,TREATMENT,494,502,0.8730096817016602
+11, Sports Physical - 3 , Pediatrics - Neonatal,-,PROBLEM,1108,1109,0.7455394268035889
+11, Sports Physical - 3 , Pediatrics - Neonatal,acute distress,PROBLEM,1130,1144,0.9946639537811279
+11, Sports Physical - 3 , Pediatrics - Neonatal,rash,PROBLEM,1168,1172,0.9917427897453308
+11, Sports Physical - 3 , Pediatrics - Neonatal,lesion,PROBLEM,1176,1182,0.9096156358718872
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,Single frontal view,TEST,7,26,0.8479928970336914
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,chest,TEST,34,39,0.5548347234725952
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,Respiratory distress,PROBLEM,51,71,0.9991828203201294
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,malrotation,PROBLEM,102,113,0.998375415802002
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,a re - anastomosis of the bowel,TREATMENT,139,168,0.9422469735145569
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,acute distress,PROBLEM,177,191,0.994673490524292
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,Single frontal view of the chest,TEST,205,237,0.7944472432136536
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,A single frontal view of the chest,TEST,314,348,0.8505803346633911
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,an ET tube,TREATMENT,397,407,0.9887815117835999
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,an NG tube,TREATMENT,412,422,0.9919504523277283
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,ET tube,TREATMENT,424,431,0.9430527687072754
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,NG tube,TREATMENT,491,498,0.9842793941497803
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,focal areas,PROBLEM,614,625,0.8467090129852295
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,consolidation,PROBLEM,629,642,0.7148477435112
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,pneumothoraces,PROBLEM,644,658,0.9981582760810852
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,pleural effusions,PROBLEM,663,680,0.9985400438308716
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,prominent,PROBLEM,716,725,0.6481351256370544
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,thymus,PROBLEM,761,767,0.7974637150764465
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,increase,PROBLEM,804,812,0.7897968888282776
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,the central pulmonary vessels,PROBLEM,834,863,0.8643097877502441
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,pulmonary vascular congestion,PROBLEM,911,940,0.992296040058136
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,bowel gas,PROBLEM,962,971,0.8030409812927246
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,The osseous thorax,PROBLEM,999,1017,0.7462078928947449
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,low lung volumes,PROBLEM,1073,1089,0.9637225270271301
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,the,TEST,1125,1128,0.82152259349823
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,phase,TEST,1164,1169,0.5493841767311096
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,respiration,PROBLEM,1173,1184,0.9591753482818604
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,any,PROBLEM,1216,1219,0.8523370027542114
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,focal areas,PROBLEM,1220,1231,0.9707508087158203
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,consolidation,PROBLEM,1235,1248,0.9893985986709595
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,pneumothoraces,PROBLEM,1250,1264,0.9981046915054321
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,pleural effusions,PROBLEM,1269,1286,0.9981375932693481
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,Slight prominence to,PROBLEM,1291,1311,0.9440346360206604
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,the mediastinum,PROBLEM,1312,1327,0.9830206632614136
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,thymus,PROBLEM,1354,1360,0.7976896166801453
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,Slight prominence of,PROBLEM,1382,1402,0.9006493091583252
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,of the central pulmonary vasculature,PROBLEM,1408,1444,0.8619289398193359
+12, Single Frontal View - Chest - Pediatric , Pediatrics - Neonatal,vascular congestion,PROBLEM,1485,1504,0.7731391787528992
+13, Sports Physical - 1 , Pediatrics - Neonatal,koolaid,TREATMENT,248,255,0.9581762552261353
+13, Sports Physical - 1 , Pediatrics - Neonatal,problems,PROBLEM,397,405,0.9622454047203064
+13, Sports Physical - 1 , Pediatrics - Neonatal,corrective lenses,TREATMENT,417,434,0.9675092697143555
+13, Sports Physical - 1 , Pediatrics - Neonatal,particular problems,PROBLEM,736,755,0.8703826069831848
+13, Sports Physical - 1 , Pediatrics - Neonatal,Xopenex,TREATMENT,967,974,0.9022947549819946
+13, Sports Physical - 1 , Pediatrics - Neonatal,albuterol,TREATMENT,979,988,0.7578195333480835
+14, Spinal fluid evaluation , Pediatrics - Neonatal,further evaluation,TEST,120,138,0.7829908132553101
+14, Spinal fluid evaluation , Pediatrics - Neonatal,a jelly - like red - brown stool,PROBLEM,310,338,0.9877874851226807
+14, Spinal fluid evaluation , Pediatrics - Neonatal,further evaluation,TEST,460,478,0.9244812726974487
+14, Spinal fluid evaluation , Pediatrics - Neonatal,laboratory,TEST,484,494,0.9015798568725586
+14, Spinal fluid evaluation , Pediatrics - Neonatal,a white blood cell count,TEST,508,532,0.9449238777160645
+14, Spinal fluid evaluation , Pediatrics - Neonatal,hemoglobin,TEST,551,561,0.998737633228302
+14, Spinal fluid evaluation , Pediatrics - Neonatal,sodium,TEST,568,574,0.9976104497909546
+14, Spinal fluid evaluation , Pediatrics - Neonatal,potassium,TEST,580,589,0.9943739175796509
+14, Spinal fluid evaluation , Pediatrics - Neonatal,hemolyzed,PROBLEM,604,613,0.8318191766738892
+14, Spinal fluid evaluation , Pediatrics - Neonatal,chloride,TEST,615,623,0.9985508322715759
+14, Spinal fluid evaluation , Pediatrics - Neonatal,CO2,TEST,629,632,0.9987810254096985
+14, Spinal fluid evaluation , Pediatrics - Neonatal,BUN,TEST,637,640,0.998822033405304
+14, Spinal fluid evaluation , Pediatrics - Neonatal,creatinine,TEST,645,655,0.9981610178947449
+14, Spinal fluid evaluation , Pediatrics - Neonatal,glucose,TEST,665,672,0.9909800887107849
+14, Spinal fluid evaluation , Pediatrics - Neonatal,a barium enema,TEST,759,773,0.9563570022583008
+14, Spinal fluid evaluation , Pediatrics - Neonatal,further evaluation,TEST,877,895,0.9145438075065613
+14, Spinal fluid evaluation , Pediatrics - Neonatal,ampicillin,TREATMENT,923,933,0.9986453652381897
+14, Spinal fluid evaluation , Pediatrics - Neonatal,cefotaxime,TREATMENT,935,945,0.9989920258522034
+14, Spinal fluid evaluation , Pediatrics - Neonatal,Rocephin,TREATMENT,951,959,0.9988874793052673
+14, Spinal fluid evaluation , Pediatrics - Neonatal,group,PROBLEM,1111,1116,0.9436557292938232
+14, Spinal fluid evaluation , Pediatrics - Neonatal,B strep,PROBLEM,1117,1124,0.865485668182373
+14, Spinal fluid evaluation , Pediatrics - Neonatal,herpes,PROBLEM,1128,1134,0.8487464785575867
+15, Septal Defect Repair , Pediatrics - Neonatal,Repair,PROBLEM,23,29,0.864010214805603
+15, Septal Defect Repair , Pediatrics - Neonatal,total anomalous pulmonary venous connection,PROBLEM,33,76,0.9968153238296509
+15, Septal Defect Repair , Pediatrics - Neonatal,patent ductus arteriosus,PROBLEM,93,117,0.7880304455757141
+15, Septal Defect Repair , Pediatrics - Neonatal,Repair secundum type atrial septal defect,PROBLEM,122,163,0.9835515022277832
+15, Septal Defect Repair , Pediatrics - Neonatal,autologous pericardial patch,TREATMENT,165,193,0.9733638167381287
+15, Septal Defect Repair , Pediatrics - Neonatal,Subtotal thymectomy,TREATMENT,199,218,0.9950817823410034
+15, Septal Defect Repair , Pediatrics - Neonatal,peritoneal dialysis catheter,TREATMENT,236,264,0.9921138286590576
+15, Septal Defect Repair , Pediatrics - Neonatal,total anomalous pulmonary venous connection,PROBLEM,337,380,0.9982694387435913
+15, Septal Defect Repair , Pediatrics - Neonatal,complete correction,TREATMENT,455,474,0.6150048971176147
+15, Septal Defect Repair , Pediatrics - Neonatal,Total anomalous pulmonary venous connection,PROBLEM,497,540,0.9953994750976562
+15, Septal Defect Repair , Pediatrics - Neonatal,Atrial septal defect,PROBLEM,545,565,0.9985340237617493
+15, Septal Defect Repair , Pediatrics - Neonatal,Patent ductus arteriosus,PROBLEM,570,594,0.9792042374610901
+15, Septal Defect Repair , Pediatrics - Neonatal,hypothermic circulatory arrest,PROBLEM,769,799,0.8682971596717834
+15, Septal Defect Repair , Pediatrics - Neonatal,perfusion,PROBLEM,845,854,0.8015470504760742
+15, Septal Defect Repair , Pediatrics - Neonatal,Horizontal pulmonary venous confluence,PROBLEM,878,916,0.9672909379005432
+15, Septal Defect Repair , Pediatrics - Neonatal,upper,TREATMENT,928,933,0.9896062016487122
+15, Septal Defect Repair , Pediatrics - Neonatal,middle,TREATMENT,938,944,0.47429344058036804
+15, Septal Defect Repair , Pediatrics - Neonatal,veins,TREATMENT,954,959,0.41529685258865356
+15, Septal Defect Repair , Pediatrics - Neonatal,multiple entry sites,PROBLEM,1001,1021,0.8102972507476807
+15, Septal Defect Repair , Pediatrics - Neonatal,left - sided veins,PROBLEM,1026,1042,0.8642835021018982
+15, Septal Defect Repair , Pediatrics - Neonatal,Large,PROBLEM,1044,1049,0.4744139313697815
+15, Septal Defect Repair , Pediatrics - Neonatal,patulous,PROBLEM,1050,1058,0.6660850048065186
+15, Septal Defect Repair , Pediatrics - Neonatal,the left atrium and anterior aspect of the pulmonary venous confluence,PROBLEM,1099,1169,0.9240636825561523
+15, Septal Defect Repair , Pediatrics - Neonatal,Nonobstructed ascending,PROBLEM,1171,1194,0.6860474348068237
+15, Septal Defect Repair , Pediatrics - Neonatal,vein,TREATMENT,1195,1199,0.6692171096801758
+15, Septal Defect Repair , Pediatrics - Neonatal,ductus arteriosus diminutive left atrium,PROBLEM,1216,1256,0.9564018249511719
+15, Septal Defect Repair , Pediatrics - Neonatal,posterior atrial septal defect,PROBLEM,1262,1292,0.9930882453918457
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,rectal bleeding,PROBLEM,112,127,0.9985285997390747
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,hard stools,PROBLEM,204,215,0.9705884456634521
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,bright red blood in the stool,PROBLEM,227,256,0.9947654604911804
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,stool,PROBLEM,294,299,0.9795030355453491
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,the stool,PROBLEM,301,310,0.6652990579605103
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,blood in,PROBLEM,325,333,0.6523237228393555
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,rectal bleeding,PROBLEM,366,381,0.9981695413589478
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,dark red blood in it,PROBLEM,454,474,0.8942859768867493
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,fever,PROBLEM,490,495,0.9946893453598022
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,diarrhea,PROBLEM,500,508,0.9978932738304138
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,easy bruising,PROBLEM,524,537,0.9968320727348328
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,Excessive bleeding from minor cut,PROBLEM,539,572,0.8145400881767273
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,slightly fussy,PROBLEM,586,600,0.7812975645065308
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,complications,PROBLEM,717,730,0.7993606925010681
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,heart disease,PROBLEM,821,834,0.9969642162322998
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,lung disease,PROBLEM,836,848,0.9953661561012268
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,cancer,PROBLEM,861,867,0.9942885637283325
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,blood pressure problems,PROBLEM,869,892,0.980323314666748
+16, Rectal Bleeding - 1-year-old , Pediatrics - Neonatal,bleeding problems,PROBLEM,897,914,0.9907395243644714
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Two views,TEST,8,17,0.7290980815887451
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,surgery,TREATMENT,66,73,0.7321463823318481
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,slipped capital femoral epiphysis ( SCFE ) bilaterally,PROBLEM,118,170,0.9145643711090088
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Frontal and lateral views of the hip and pelvis,TEST,185,232,0.8214937448501587
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Lateral view,TEST,301,313,0.9410938024520874
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,hip,TEST,327,330,0.5236994028091431
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Frontal view of the pelvis,TEST,357,383,0.8036287426948547
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,a lateral view,TEST,388,402,0.8307010531425476
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,the,TEST,406,409,0.5845558047294617
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,hip,TEST,416,419,0.8061460852622986
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Current films,TEST,506,519,0.9000192880630493
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,appearing post - surgical changes,PROBLEM,534,565,0.8914378881454468
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,a single intramedullary screw,TREATMENT,589,618,0.858324408531189
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,2 intramedullary screws,TREATMENT,668,691,0.9570627808570862
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,a lucency along,PROBLEM,752,767,0.8728644847869873
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,previous,PROBLEM,772,780,0.6563445925712585
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,screw,TREATMENT,781,786,0.9255796670913696
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,cutaneous staples,TREATMENT,876,893,0.9768508076667786
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,surgical clips,TREATMENT,901,915,0.8080030679702759
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,lateral,TREATMENT,954,961,0.47500306367874146
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Deformity,PROBLEM,993,1002,0.8682250380516052
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,the,PROBLEM,1014,1017,0.9160675406455994
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,slipped capital femoral epiphysis,PROBLEM,1039,1072,0.7279658317565918
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,Stable,PROBLEM,1103,1109,0.4663976728916168
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,hip,TREATMENT,1126,1129,0.4757806658744812
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,joint,PROBLEM,1130,1135,0.5039207339286804
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,pinning,TEST,1148,1155,0.4621415138244629
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,removal,TREATMENT,1169,1176,0.8534984588623047
+17, Slipped Capital Femoral Epiphysis (SCFE) , Pediatrics - Neonatal,skin staples,TREATMENT,1180,1192,0.9601763486862183
+18, School Physical - 1 , Pediatrics - Neonatal,a,TEST,49,50,0.5130441188812256
+18, School Physical - 1 , Pediatrics - Neonatal,medications,TREATMENT,649,660,0.9876899719238281
+18, School Physical - 1 , Pediatrics - Neonatal,asthma,PROBLEM,665,671,0.9983787536621094
+18, School Physical - 1 , Pediatrics - Neonatal,a problem with her eye,PROBLEM,681,703,0.8418623208999634
+18, School Physical - 1 , Pediatrics - Neonatal,a rash in the left leg,PROBLEM,762,784,0.9963686466217041
+18, School Physical - 1 , Pediatrics - Neonatal,a rash,PROBLEM,846,852,0.9937596917152405
+18, School Physical - 1 , Pediatrics - Neonatal,her immunizations,TREATMENT,878,895,0.7706466317176819
+18, School Physical - 1 , Pediatrics - Neonatal,drug,PROBLEM,1066,1070,0.5937003493309021
+18, School Physical - 1 , Pediatrics - Neonatal,body mass index,TEST,1201,1216,0.6894457340240479
+19, School Physical - 2 , Pediatrics - Neonatal,check,TEST,29,34,0.7449548244476318
+19, School Physical - 2 , Pediatrics - Neonatal,school physical,TEST,39,54,0.8184196949005127
+19, School Physical - 2 , Pediatrics - Neonatal,concerns,PROBLEM,187,195,0.5664376020431519
+19, School Physical - 2 , Pediatrics - Neonatal,some fine motor issues,PROBLEM,280,302,0.9697824716567993
+19, School Physical - 2 , Pediatrics - Neonatal,writing,PROBLEM,315,322,0.6038756966590881
+19, School Physical - 2 , Pediatrics - Neonatal,problems,PROBLEM,584,592,0.7073127627372742
+19, School Physical - 2 , Pediatrics - Neonatal,behavior issues,PROBLEM,612,627,0.9047099351882935
+19, School Physical - 2 , Pediatrics - Neonatal,fever,PROBLEM,1062,1067,0.9858712553977966
+19, School Physical - 2 , Pediatrics - Neonatal,vision problems,PROBLEM,1075,1090,0.9830111861228943
+19, School Physical - 2 , Pediatrics - Neonatal,an eye exam,TEST,1099,1110,0.7524962425231934
+19, School Physical - 2 , Pediatrics - Neonatal,headaches,PROBLEM,1151,1160,0.7997018098831177
+19, School Physical - 2 , Pediatrics - Neonatal,his vision exam,TEST,1180,1195,0.7678630352020264
+19, School Physical - 2 , Pediatrics - Neonatal,earache,PROBLEM,1200,1207,0.954203724861145
+19, School Physical - 2 , Pediatrics - Neonatal,sore throat,PROBLEM,1211,1222,0.9960579872131348
+19, School Physical - 2 , Pediatrics - Neonatal,cough,PROBLEM,1227,1232,0.9954003691673279
+19, School Physical - 2 , Pediatrics - Neonatal,shortness of breath,PROBLEM,1234,1253,0.9907401204109192
+19, School Physical - 2 , Pediatrics - Neonatal,wheezing,PROBLEM,1257,1265,0.9984244108200073
+19, School Physical - 2 , Pediatrics - Neonatal,stomachache,PROBLEM,1270,1281,0.9922141432762146
+19, School Physical - 2 , Pediatrics - Neonatal,vomiting,PROBLEM,1283,1291,0.997488260269165
+19, School Physical - 2 , Pediatrics - Neonatal,diarrhea,PROBLEM,1295,1303,0.9981094598770142
+19, School Physical - 2 , Pediatrics - Neonatal,dysuria,PROBLEM,1308,1315,0.9979909658432007
+19, School Physical - 2 , Pediatrics - Neonatal,urgency,PROBLEM,1317,1324,0.9969022870063782
+19, School Physical - 2 , Pediatrics - Neonatal,frequency,PROBLEM,1328,1337,0.9832143783569336
+19, School Physical - 2 , Pediatrics - Neonatal,excessive bleeding,PROBLEM,1342,1360,0.9916629791259766
+19, School Physical - 2 , Pediatrics - Neonatal,bruising,PROBLEM,1364,1372,0.9961769580841064
+20, Sports Physical - 2 , Pediatrics - Neonatal,asthma,PROBLEM,132,138,0.9989473223686218
+20, Sports Physical - 2 , Pediatrics - Neonatal,allergic rhinitis,PROBLEM,143,160,0.9986932277679443
+20, Sports Physical - 2 , Pediatrics - Neonatal,child check,TEST,200,211,0.5795892477035522
+20, Sports Physical - 2 , Pediatrics - Neonatal,his asthma,PROBLEM,265,275,0.996154248714447
+20, Sports Physical - 2 , Pediatrics - Neonatal,allergies,PROBLEM,280,289,0.9848194122314453
+20, Sports Physical - 2 , Pediatrics - Neonatal,immunotherapy,TREATMENT,310,323,0.9987521171569824
+20, Sports Physical - 2 , Pediatrics - Neonatal,Advair,TREATMENT,339,345,0.998806357383728
+20, Sports Physical - 2 , Pediatrics - Neonatal,Flonase,TREATMENT,357,364,0.998333752155304
+20, Sports Physical - 2 , Pediatrics - Neonatal,Claritin,TREATMENT,366,374,0.9990022778511047
+20, Sports Physical - 2 , Pediatrics - Neonatal,albuterol inhaler,TREATMENT,379,396,0.9951804876327515
+20, Sports Physical - 2 , Pediatrics - Neonatal,exacerbation,PROBLEM,417,429,0.5940090417861938
+20, Sports Physical - 2 , Pediatrics - Neonatal,issues,PROBLEM,522,528,0.7434682250022888
+20, Sports Physical - 2 , Pediatrics - Neonatal,problems,PROBLEM,861,869,0.7531152963638306
+20, Sports Physical - 2 , Pediatrics - Neonatal,immunizations,TREATMENT,875,888,0.7028952836990356
+20, Sports Physical - 2 , Pediatrics - Neonatal,known,PROBLEM,999,1004,0.5524972677230835
+20, Sports Physical - 2 , Pediatrics - Neonatal,medication,PROBLEM,1005,1015,0.8778706789016724
+20, Sports Physical - 2 , Pediatrics - Neonatal,allergies,PROBLEM,1016,1025,0.8029758930206299
+20, Sports Physical - 2 , Pediatrics - Neonatal,fever,PROBLEM,1076,1081,0.9386833906173706
+20, Sports Physical - 2 , Pediatrics - Neonatal,vision problems,PROBLEM,1093,1108,0.9887024164199829
+20, Sports Physical - 2 , Pediatrics - Neonatal,eye redness,PROBLEM,1113,1124,0.9771005511283875
+20, Sports Physical - 2 , Pediatrics - Neonatal,itching,PROBLEM,1126,1133,0.9962269067764282
+20, Sports Physical - 2 , Pediatrics - Neonatal,drainage,PROBLEM,1137,1145,0.5331110954284668
+20, Sports Physical - 2 , Pediatrics - Neonatal,earache,PROBLEM,1150,1157,0.9910290241241455
+20, Sports Physical - 2 , Pediatrics - Neonatal,sore throat,PROBLEM,1162,1173,0.9954698085784912
+20, Sports Physical - 2 , Pediatrics - Neonatal,congestion,PROBLEM,1177,1187,0.9172142148017883
+20, Sports Physical - 2 , Pediatrics - Neonatal,chest pain,PROBLEM,1208,1218,0.9902788400650024
+20, Sports Physical - 2 , Pediatrics - Neonatal,cough,PROBLEM,1236,1241,0.9750868678092957
+20, Sports Physical - 2 , Pediatrics - Neonatal,shortness of breath,PROBLEM,1243,1262,0.9878401756286621
+20, Sports Physical - 2 , Pediatrics - Neonatal,wheezing,PROBLEM,1266,1274,0.9969915151596069
+20, Sports Physical - 2 , Pediatrics - Neonatal,stomachache,PROBLEM,1283,1294,0.9968016147613525
+20, Sports Physical - 2 , Pediatrics - Neonatal,vomiting,PROBLEM,1296,1304,0.9915109276771545
+20, Sports Physical - 2 , Pediatrics - Neonatal,diarrhea,PROBLEM,1308,1316,0.993078887462616
+20, Sports Physical - 2 , Pediatrics - Neonatal,urgency,PROBLEM,1334,1341,0.6723423004150391
+20, Sports Physical - 2 , Pediatrics - Neonatal,excessive,PROBLEM,1374,1383,0.504824161529541
+20, Sports Physical - 2 , Pediatrics - Neonatal,bleeding,PROBLEM,1396,1404,0.8167868256568909
+20, Sports Physical - 2 , Pediatrics - Neonatal,distress,PROBLEM,1523,1531,0.4324283301830292
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,joint pain in several joints,PROBLEM,139,167,0.9718171954154968
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,systemic disease,PROBLEM,238,254,0.9964990615844727
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,"pain in his fingers, elbows, and neck",PROBLEM,339,376,0.983867347240448
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,pain,PROBLEM,467,471,0.9944672584533691
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,previous illness,PROBLEM,614,630,0.534027099609375
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,gastrointestinal problems,PROBLEM,646,671,0.986619234085083
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,problems,PROBLEM,680,688,0.7592148184776306
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,allergies,PROBLEM,694,703,0.9900023937225342
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,seasonal allergies,PROBLEM,716,734,0.9970777034759521
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,Claritin,TREATMENT,748,756,0.9973642230033875
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,other problem,PROBLEM,801,814,0.8800750970840454
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,swelling,PROBLEM,827,835,0.9594743847846985
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,swelling on his elbow,PROBLEM,869,890,0.9801645278930664
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,rash,PROBLEM,915,919,0.9980236291885376
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,stomach pain,PROBLEM,924,936,0.9973134398460388
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,diarrhea,PROBLEM,941,949,0.9979093670845032
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,fevers,PROBLEM,954,960,0.9982770681381226
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,weight loss,PROBLEM,965,976,0.975894033908844
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,ulcers in his mouth,PROBLEM,981,1000,0.9809457063674927
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,canker sores,PROBLEM,1012,1024,0.9953176975250244
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,lymphadenopathy,PROBLEM,1029,1044,0.9986133575439453
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,eye problems,PROBLEM,1049,1061,0.9890086054801941
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,urinary problems,PROBLEM,1070,1086,0.995525598526001
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,Motrin,TREATMENT,1135,1141,0.993635892868042
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,Claritin,TREATMENT,1161,1169,0.9756250977516174
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,seasonal allergies,PROBLEM,1184,1202,0.9963867664337158
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,rhinitis,PROBLEM,1207,1215,0.9973108768463135
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,allergies,PROBLEM,1240,1249,0.9938210844993591
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,complications,PROBLEM,1311,1324,0.6098767518997192
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,hospitalizations,TREATMENT,1347,1363,0.8618658781051636
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,surgeries,TREATMENT,1367,1376,0.9307944178581238
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,FAMILY,PROBLEM,1378,1384,0.9650095701217651
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,arthritis,PROBLEM,1409,1418,0.998708963394165
+21, Pediatric Rheumatology Consult , Pediatrics - Neonatal,pediatric arthritis,PROBLEM,1453,1472,0.9957716464996338
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Prematurity,PROBLEM,23,34,0.9970346689224243
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Maternal,TREATMENT,75,83,0.9922307133674622
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,group B streptococcus positive culture,PROBLEM,84,122,0.8109225034713745
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Prematurity,PROBLEM,147,158,0.9929335117340088
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Group B streptococcus exposure,PROBLEM,200,230,0.8865483403205872
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,sepsis,PROBLEM,239,245,0.9975748658180237
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Physiologic jaundice,PROBLEM,250,270,0.9978457093238831
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Feeding problem,PROBLEM,275,290,0.9404378533363342
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,0,PROBLEM,389,390,0.5220022797584534
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,0,PROBLEM,391,392,0.7071318030357361
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Group B streptococcus culture,PROBLEM,434,463,0.8497247099876404
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,betamethasone,TREATMENT,504,517,0.9984230995178223
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,penicillin,TREATMENT,585,595,0.9948114156723022
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,a double nuchal cord,PROBLEM,677,697,0.9964854717254639
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,CPAP,TREATMENT,711,715,0.9820848107337952
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,free flow oxygen,TREATMENT,720,736,0.8933107256889343
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,Her Apgars,TEST,738,748,0.8524167537689209
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,a partial placental abruptio,PROBLEM,835,863,0.8959220051765442
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,antibiotics,TREATMENT,986,997,0.9150372743606567
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,ampicillin,TREATMENT,999,1009,0.9971098303794861
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,gentamicin,TREATMENT,1014,1024,0.9903593063354492
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,group,PROBLEM,1074,1079,0.9862115383148193
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,B streptococcus,PROBLEM,1080,1095,0.9514342546463013
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,The culture,TEST,1097,1108,0.727279782295227
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,the antibiotics,TREATMENT,1126,1141,0.673356294631958
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,physiologic,PROBLEM,1197,1208,0.9046421051025391
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,jaundice,PROBLEM,1209,1217,0.8087444305419922
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,her highest,PROBLEM,1222,1233,0.810044527053833
+22, Prematurity - Discharge Summary , Pediatrics - Neonatal,bilirubin,TEST,1234,1243,0.8845852613449097
+23, Reactive Airway Disease , Pediatrics - Neonatal,reactive airway disease,PROBLEM,84,107,0.9991200566291809
+23, Reactive Airway Disease , Pediatrics - Neonatal,pneumonia,PROBLEM,156,165,0.9960381984710693
+23, Reactive Airway Disease , Pediatrics - Neonatal,cough,PROBLEM,184,189,0.9981803894042969
+23, Reactive Airway Disease , Pediatrics - Neonatal,fever,PROBLEM,194,199,0.9943230152130127
+23, Reactive Airway Disease , Pediatrics - Neonatal,reactive airway disease,PROBLEM,263,286,0.9992578029632568
+23, Reactive Airway Disease , Pediatrics - Neonatal,Pulmicort,TREATMENT,296,305,0.9990111589431763
+23, Reactive Airway Disease , Pediatrics - Neonatal,albuterol,TREATMENT,316,325,0.9990519881248474
+23, Reactive Airway Disease , Pediatrics - Neonatal,nebulization,TREATMENT,350,362,0.9278212189674377
+23, Reactive Airway Disease , Pediatrics - Neonatal,cough,PROBLEM,439,444,0.9969310164451599
+23, Reactive Airway Disease , Pediatrics - Neonatal,amoxicillin,TREATMENT,498,509,0.9986246824264526
+23, Reactive Airway Disease , Pediatrics - Neonatal,yellow nasal discharge,PROBLEM,514,536,0.9981827735900879
+23, Reactive Airway Disease , Pediatrics - Neonatal,some low - grade fever,PROBLEM,627,647,0.9862402677536011
+23, Reactive Airway Disease , Pediatrics - Neonatal,temperature,PROBLEM,767,778,0.5913792848587036
+23, Reactive Airway Disease , Pediatrics - Neonatal,posttussive emesis,PROBLEM,795,813,0.9987218379974365
+23, Reactive Airway Disease , Pediatrics - Neonatal,her nebulizer,TREATMENT,828,841,0.9454665780067444
+23, Reactive Airway Disease , Pediatrics - Neonatal,respiratory distress,PROBLEM,864,884,0.9986974596977234
+23, Reactive Airway Disease , Pediatrics - Neonatal,the nebulizer,TREATMENT,917,930,0.9343881607055664
+23, Reactive Airway Disease , Pediatrics - Neonatal,asthmatic,PROBLEM,1059,1068,0.6527401208877563
+23, Reactive Airway Disease , Pediatrics - Neonatal,nebulized treatments,TREATMENT,1087,1107,0.9416782855987549
+23, Reactive Airway Disease , Pediatrics - Neonatal,a chest x - ray,TEST,1118,1131,0.974448561668396
+23, Reactive Airway Disease , Pediatrics - Neonatal,right - sided pneumonia,PROBLEM,1141,1162,0.9792963266372681
+23, Reactive Airway Disease , Pediatrics - Neonatal,hypoxemic,PROBLEM,1184,1193,0.8838251233100891
+23, Reactive Airway Disease , Pediatrics - Neonatal,her respiratory distress,PROBLEM,1214,1238,0.9848952293395996
+23, Reactive Airway Disease , Pediatrics - Neonatal,present illness,PROBLEM,1434,1449,0.9799396991729736
+24, Otitis Media - H&P , Pediatrics - Neonatal,chronic ear infections,PROBLEM,74,96,0.9987497329711914
+24, Otitis Media - H&P , Pediatrics - Neonatal,signs,PROBLEM,169,174,0.6846623420715332
+24, Otitis Media - H&P , Pediatrics - Neonatal,symptoms,PROBLEM,179,187,0.8258461952209473
+24, Otitis Media - H&P , Pediatrics - Neonatal,cough,PROBLEM,197,202,0.9979586601257324
+24, Otitis Media - H&P , Pediatrics - Neonatal,fever,PROBLEM,204,209,0.9975146055221558
+24, Otitis Media - H&P , Pediatrics - Neonatal,irritability,PROBLEM,211,223,0.9982221722602844
+24, Otitis Media - H&P , Pediatrics - Neonatal,speech and language delay,PROBLEM,228,253,0.98836350440979
+24, Otitis Media - H&P , Pediatrics - Neonatal,antibiotics,TREATMENT,305,316,0.9822830557823181
+24, Otitis Media - H&P , Pediatrics - Neonatal,otitis media,PROBLEM,321,333,0.9913136959075928
+24, Otitis Media - H&P , Pediatrics - Neonatal,problems,PROBLEM,350,358,0.6163620352745056
+24, Otitis Media - H&P , Pediatrics - Neonatal,the pain,PROBLEM,371,379,0.9458110928535461
+24, Otitis Media - H&P , Pediatrics - Neonatal,known medical allergies,PROBLEM,410,433,0.9671667218208313
+24, Otitis Media - H&P , Pediatrics - Neonatal,surgeries,TREATMENT,528,537,0.9397912621498108
+24, Otitis Media - H&P , Pediatrics - Neonatal,Alzheimer ' s disease,PROBLEM,650,669,0.9431485533714294
+24, Otitis Media - H&P , Pediatrics - Neonatal,chief complaint,PROBLEM,745,760,0.6607050895690918
+24, Otitis Media - H&P , Pediatrics - Neonatal,Temp,TEST,778,782,0.6253859400749207
+24, Otitis Media - H&P , Pediatrics - Neonatal,apparent distress,PROBLEM,864,881,0.8328464031219482
+24, Otitis Media - H&P , Pediatrics - Neonatal,abnormalities,PROBLEM,1105,1118,0.7559717297554016
+24, Otitis Media - H&P , Pediatrics - Neonatal,abnormalities,PROBLEM,1160,1173,0.9479932188987732
+24, Otitis Media - H&P , Pediatrics - Neonatal,Pupil exam,TEST,1208,1218,0.9432092905044556
+24, Otitis Media - H&P , Pediatrics - Neonatal,Otoscopic examination,TEST,1240,1261,0.9734638929367065
+24, Otitis Media - H&P , Pediatrics - Neonatal,otitis media bilateral,PROBLEM,1270,1292,0.9295952320098877
+24, Otitis Media - H&P , Pediatrics - Neonatal,Hearing exam,TEST,1294,1306,0.8219492435455322
+24, Otitis Media - H&P , Pediatrics - Neonatal,diminished bilateral,PROBLEM,1345,1365,0.7824589610099792
+24, Otitis Media - H&P , Pediatrics - Neonatal,drainage,PROBLEM,1398,1406,0.48316577076911926
+24, Otitis Media - H&P , Pediatrics - Neonatal,abnormalities,PROBLEM,1487,1500,0.7385817170143127
+24, Otitis Media - H&P , Pediatrics - Neonatal,abnormalities,PROBLEM,1695,1708,0.7021375298500061
+25, Pediatric - Letter , Pediatrics - Neonatal,a twin,PROBLEM,180,186,0.4610080420970917
+25, Pediatric - Letter , Pediatrics - Neonatal,some very mild prematurity,PROBLEM,212,238,0.9719618558883667
+25, Pediatric - Letter , Pediatrics - Neonatal,problems,PROBLEM,259,267,0.6285393238067627
+25, Pediatric - Letter , Pediatrics - Neonatal,wheezing,PROBLEM,273,281,0.9983965754508972
+25, Pediatric - Letter , Pediatrics - Neonatal,cough,PROBLEM,283,288,0.9984294772148132
+25, Pediatric - Letter , Pediatrics - Neonatal,shortness of breath,PROBLEM,293,312,0.9990496039390564
+25, Pediatric - Letter , Pediatrics - Neonatal,inhaled steroids,TREATMENT,400,416,0.9977365136146545
+25, Pediatric - Letter , Pediatrics - Neonatal,bronchodilator,TREATMENT,421,435,0.9986717700958252
+25, Pediatric - Letter , Pediatrics - Neonatal,persistent problems,PROBLEM,471,490,0.8484206199645996
+25, Pediatric - Letter , Pediatrics - Neonatal,a cough,PROBLEM,496,503,0.9983766078948975
+25, Pediatric - Letter , Pediatrics - Neonatal,prednisolone,TREATMENT,564,576,0.9826374650001526
+25, Pediatric - Letter , Pediatrics - Neonatal,day course,TREATMENT,617,627,0.5900048017501831
+25, Pediatric - Letter , Pediatrics - Neonatal,problems,PROBLEM,744,752,0.7129764556884766
+25, Pediatric - Letter , Pediatrics - Neonatal,asthma,PROBLEM,758,764,0.9943878054618835
+25, Pediatric - Letter , Pediatrics - Neonatal,his medication administration,TREATMENT,894,923,0.9609131217002869
+25, Pediatric - Letter , Pediatrics - Neonatal,exam,TEST,951,955,0.8282923698425293
+25, Pediatric - Letter , Pediatrics - Neonatal,Abc,TEST,963,966,0.9504479765892029
+25, Pediatric - Letter , Pediatrics - Neonatal,some scattered rhonchi,PROBLEM,971,993,0.9447324275970459
+25, Pediatric - Letter , Pediatrics - Neonatal,asthma,PROBLEM,1124,1130,0.5832524299621582
+25, Pediatric - Letter , Pediatrics - Neonatal,management,TREATMENT,1131,1141,0.5992751717567444
+25, Pediatric - Letter , Pediatrics - Neonatal,fairly severe childhood asthma,PROBLEM,1280,1310,0.957943856716156
+25, Pediatric - Letter , Pediatrics - Neonatal,steroids,TREATMENT,1415,1423,0.9776186943054199
+25, Pediatric - Letter , Pediatrics - Neonatal,steroids,TREATMENT,1476,1484,0.990841269493103
+25, Pediatric - Letter , Pediatrics - Neonatal,milliliters,PROBLEM,1574,1585,0.9854598641395569
+26, Pediatric Urology Letter , Pediatrics - Neonatal,abdominal pain,PROBLEM,235,249,0.9991729259490967
+26, Pediatric Urology Letter , Pediatrics - Neonatal,a diuretic renal scan,TEST,262,283,0.9932698011398315
+26, Pediatric Urology Letter , Pediatrics - Neonatal,obstruction,PROBLEM,316,327,0.9968833327293396
+26, Pediatric Urology Letter , Pediatrics - Neonatal,his pain,PROBLEM,420,428,0.9969482421875
+26, Pediatric Urology Letter , Pediatrics - Neonatal,actual physical examination,TEST,503,530,0.9854967594146729
+26, Pediatric Urology Letter , Pediatrics - Neonatal,pain through his entire right side,PROBLEM,556,590,0.9566609859466553
+26, Pediatric Urology Letter , Pediatrics - Neonatal,gastrointestinal,PROBLEM,658,674,0.9953670501708984
+26, Pediatric Urology Letter , Pediatrics - Neonatal,Detrol,TREATMENT,778,784,0.9902514219284058
+26, Pediatric Urology Letter , Pediatrics - Neonatal,his pain,TEST,786,794,0.6661969423294067
+26, Pediatric Urology Letter , Pediatrics - Neonatal,levels,PROBLEM,795,801,0.7411705851554871
+26, Pediatric Urology Letter , Pediatrics - Neonatal,Detrol,TREATMENT,881,887,0.8631008267402649
+26, Pediatric Urology Letter , Pediatrics - Neonatal,MiraLax,TREATMENT,925,932,0.8341557383537292
+26, Pediatric Urology Letter , Pediatrics - Neonatal,his,PROBLEM,951,954,0.48490387201309204
+26, Pediatric Urology Letter , Pediatrics - Neonatal,evaluation,TEST,1038,1048,0.9749945998191833
+26, Pediatric Urology Letter , Pediatrics - Neonatal,abnormalities,PROBLEM,1074,1087,0.9956071972846985
+26, Pediatric Urology Letter , Pediatrics - Neonatal,gastrointestinal,PROBLEM,1095,1111,0.9925347566604614
+26, Pediatric Urology Letter , Pediatrics - Neonatal,bladder anatomic abnormalities,PROBLEM,1235,1265,0.9959719777107239
+26, Pediatric Urology Letter , Pediatrics - Neonatal,pain,PROBLEM,1290,1294,0.99058997631073
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,Increasing oxygen requirement,PROBLEM,31,60,0.9734578132629395
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,premature rupture of membranes,PROBLEM,138,168,0.9982473850250244
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,symptoms,PROBLEM,232,240,0.9028623700141907
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,flu,PROBLEM,244,247,0.9948617815971375
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,premature babies,PROBLEM,318,334,0.9768373966217041
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,a significant increasing oxygen requirement,PROBLEM,391,434,0.9168858528137207
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,60,TREATMENT,473,475,0.6880581974983215
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,% FiO2,TREATMENT,475,481,0.8025029897689819
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,slightly jaundiced,PROBLEM,552,570,0.8279411792755127
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,Pulse,TEST,585,590,0.979181170463562
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,respiratory rate,TEST,599,615,0.9630769491195679
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,sat,TEST,621,624,0.72371506690979
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,mmHg,TEST,636,640,0.7383065223693848
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,blood pressure,TEST,641,655,0.9030823707580566
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,SKIN,TEST,657,661,0.6596497893333435
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,the high - frequency ventilator,TREATMENT,686,715,0.9491413831710815
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,His echocardiogram,TEST,734,752,0.9935664534568787
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,significant pulmonary hypertension,PROBLEM,807,841,0.9914031028747559
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,A large ductus arteriosus,PROBLEM,843,868,0.973658561706543
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,bidirectional shunt,PROBLEM,883,902,0.8422667980194092
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,foramen ovale shunt,PROBLEM,906,925,0.8948962092399597
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,bidirectional shunt,PROBLEM,946,965,0.8083838224411011
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,shunting,PROBLEM,971,979,0.9556176662445068
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,the ductus,PROBLEM,989,999,0.6660858392715454
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,ovale,PROBLEM,1016,1021,0.9479600191116333
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,significant pulmonary hypertension,PROBLEM,1120,1154,0.9364862442016602
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,oxygen,TREATMENT,1197,1203,0.6142272353172302
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,nitric oxide,TREATMENT,1243,1255,0.9927595257759094
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,Indocin,TREATMENT,1268,1275,0.7364740967750549
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,lower pulmonary artery pressures,PROBLEM,1326,1358,0.9885345697402954
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,me,PROBLEM,1419,1421,0.9232024550437927
+27, Pulmonary Hypertension - Pediatric Consult , Pediatrics - Neonatal,s,PROBLEM,1449,1450,0.8735363483428955
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,patent ductus arteriosus,PROBLEM,54,78,0.9908890724182129
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,operative,TEST,131,140,0.8379104137420654
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,persistent pulmonary over circulation,PROBLEM,177,214,0.9973438382148743
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,failure to thrive,PROBLEM,219,236,0.9759441018104553
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,a large patent ductus arteriosus,PROBLEM,261,293,0.9796624183654785
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,operative intervention,TREATMENT,370,392,0.9895236492156982
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,Patent ductus arteriosus,PROBLEM,415,439,0.9951545596122742
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,Severe prematurity,PROBLEM,444,462,0.9952483177185059
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,Large patent ductus arteriosus,PROBLEM,547,577,0.8849802613258362
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,pulmonary over circulation,PROBLEM,595,621,0.9976919293403625
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,procedure,TREATMENT,647,656,0.8664125204086304
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,recurrent laryngeal nerve,PROBLEM,663,688,0.7644398808479309
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,rise in diastolic blood pressure,PROBLEM,727,759,0.8655135035514832
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,anesthesia,TREATMENT,955,965,0.9618074893951416
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,posterolateral thoracotomy incision,TREATMENT,1057,1092,0.8678815364837646
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,planes,PROBLEM,1150,1156,0.8545545935630798
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,damage,PROBLEM,1219,1225,0.36151254177093506
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,lung,PROBLEM,1244,1248,0.7847115993499756
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,edematous,PROBLEM,1280,1289,0.9863430261611938
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,isthmus,PROBLEM,1344,1351,0.9926947355270386
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,pleura,PROBLEM,1357,1363,0.9805034399032593
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,ductus arteriosus,PROBLEM,1378,1395,0.9664891958236694
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,test,TREATMENT,1479,1483,0.6675364971160889
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,titanium clip,TREATMENT,1528,1541,0.690291166305542
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,pulsatile,TREATMENT,1563,1572,0.730877161026001
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,recurrent,TREATMENT,1612,1621,0.7073525786399841
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,nerve,TREATMENT,1632,1637,0.5136987566947937
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,hemostasis,TREATMENT,1683,1693,0.9001627564430237
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,space,TREATMENT,1711,1716,0.7317582368850708
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,Vicryl sutures,TREATMENT,1737,1751,0.7611992955207825
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,muscular,TREATMENT,1760,1768,0.5670899748802185
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,suture,TREATMENT,1822,1828,0.5960149765014648
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,a,TREATMENT,1869,1870,0.4233759641647339
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,Caprosyn suture,TREATMENT,1883,1898,0.6621102094650269
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,sterile dressing,TREATMENT,1902,1918,0.8986192941665649
+28, Patent Ductus Arteriosus Ligation , Pediatrics - Neonatal,needle counts,TREATMENT,1942,1955,0.5906572341918945
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,trimester ultrasound,TEST,175,195,0.9760987758636475
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,rupture,PROBLEM,200,207,0.9498540163040161
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,membranes,PROBLEM,211,220,0.8116983771324158
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,fluid,TEST,264,269,0.5479459166526794
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,Apgar scores,TEST,367,379,0.9536055326461792
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,hepatitis surface antigen,TEST,552,577,0.9061807990074158
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,RPR,TEST,588,591,0.7826389074325562
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,HIV,TEST,605,608,0.49440324306488037
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,group,PROBLEM,630,635,0.8939099907875061
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,B strep,PROBLEM,636,643,0.7597957849502563
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,prenatal care,TREATMENT,715,728,0.7665667533874512
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,heart rate,TEST,1064,1074,0.8245917558670044
+29, Normal Newborn H&P Template , Pediatrics - Neonatal,respiratory rate,TEST,1079,1095,0.7552334070205688
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,Otitis media,PROBLEM,34,46,0.8919346928596497
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,sepsis,PROBLEM,60,66,0.7602344751358032
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,fever,PROBLEM,215,220,0.993504524230957
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,intermittent cough,PROBLEM,285,303,0.9920198321342468
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,nasal congestion,PROBLEM,305,321,0.9981317520141602
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,rhinorrhea,PROBLEM,327,337,0.9986506104469299
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,rashes,PROBLEM,356,362,0.998690664768219
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,Tylenol,TREATMENT,383,390,0.9987730383872986
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,Advil,TREATMENT,395,400,0.9970104694366455
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,the fevers,PROBLEM,418,428,0.9377541542053223
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,the fever,PROBLEM,434,443,0.952538013458252
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,some increased workup of breathing,PROBLEM,488,522,0.8580245971679688
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,exam,TEST,729,733,0.7127458453178406
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,moderately ill,PROBLEM,742,756,0.8317111730575562
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,murmurs,PROBLEM,1069,1076,0.679975688457489
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,Lungs,PROBLEM,1078,1083,0.7864676117897034
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,increased,PROBLEM,1091,1100,0.9475462436676025
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,breathing,PROBLEM,1111,1120,0.5487027168273926
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,moderate tachypnea,PROBLEM,1122,1140,0.9685735702514648
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,rales,PROBLEM,1145,1150,0.9948784112930298
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,rhonchi,PROBLEM,1152,1159,0.9894459843635559
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,wheezes,PROBLEM,1163,1170,0.9887690544128418
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,nontender,PROBLEM,1198,1207,0.922545850276947
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,nondistended,PROBLEM,1209,1221,0.9537628889083862
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,sounds,PROBLEM,1236,1242,0.8126052021980286
+30, Otitis Media - Discharge Summary , Pediatrics - Neonatal,Neurologic exam,TEST,1244,1259,0.9565725922584534
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,acute respiratory distress,PROBLEM,41,67,0.9987569451332092
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,Initial temperature,TEST,83,102,0.9325694441795349
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,pulse XX,TEST,111,119,0.9645631313323975
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,respirations,TEST,121,133,0.9972598552703857
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,head,TEST,169,173,0.8015449047088623
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,non,PROBLEM,266,269,0.9350154399871826
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,-,PROBLEM,269,270,0.959052324295044
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,bulging,PROBLEM,270,277,0.8791528344154358
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,palatal defect,PROBLEM,403,417,0.9946131706237793
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,clavicular fracture,PROBLEM,442,461,0.9935884475708008
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,auscultation,TEST,480,492,0.9854512214660645
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,murmur,PROBLEM,523,529,0.9717071652412415
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,click,PROBLEM,531,536,0.9833032488822937
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,gallop,PROBLEM,541,547,0.9881044030189514
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,masses,PROBLEM,643,649,0.9967329502105713
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,organomegaly,PROBLEM,653,665,0.9977586269378662
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,hip defects,PROBLEM,723,734,0.9972690343856812
+31, Normal Newborn Infant Physical Exam , Pediatrics - Neonatal,rash,PROBLEM,842,846,0.995762825012207
+32, New Onset Seizure , Pediatrics - Neonatal,New,PROBLEM,27,30,0.984315812587738
+32, New Onset Seizure , Pediatrics - Neonatal,-,PROBLEM,30,31,0.9280045628547668
+32, New Onset Seizure , Pediatrics - Neonatal,onset seizure,PROBLEM,31,44,0.9924493432044983
+32, New Onset Seizure , Pediatrics - Neonatal,known,PROBLEM,133,138,0.949600338935852
+32, New Onset Seizure , Pediatrics - Neonatal,febrile seizures,PROBLEM,139,155,0.8574764132499695
+32, New Onset Seizure , Pediatrics - Neonatal,Keppra oral solution,TREATMENT,175,195,0.9907224774360657
+32, New Onset Seizure , Pediatrics - Neonatal,febrile seizures,PROBLEM,229,245,0.9983392953872681
+32, New Onset Seizure , Pediatrics - Neonatal,her,TREATMENT,310,313,0.5984227657318115
+32, New Onset Seizure , Pediatrics - Neonatal,febrile seizure control,PROBLEM,314,337,0.9807916283607483
+32, New Onset Seizure , Pediatrics - Neonatal,brief periods,PROBLEM,368,381,0.8730266690254211
+32, New Onset Seizure , Pediatrics - Neonatal,pauses,PROBLEM,385,391,0.9424130320549011
+32, New Onset Seizure , Pediatrics - Neonatal,staring,PROBLEM,396,403,0.6713875532150269
+32, New Onset Seizure , Pediatrics - Neonatal,unresponsive,PROBLEM,423,435,0.9913131594657898
+32, New Onset Seizure , Pediatrics - Neonatal,postural tone,PROBLEM,459,472,0.8351362943649292
+32, New Onset Seizure , Pediatrics - Neonatal,episode,PROBLEM,670,677,0.8089607954025269
+32, New Onset Seizure , Pediatrics - Neonatal,some perioral cyanosis,PROBLEM,740,762,0.987018883228302
+32, New Onset Seizure , Pediatrics - Neonatal,a convulsive activity,PROBLEM,789,810,0.9952682852745056
+32, New Onset Seizure , Pediatrics - Neonatal,Keppra dosing,TREATMENT,859,872,0.8058413863182068
+32, New Onset Seizure , Pediatrics - Neonatal,febrile seizures,PROBLEM,1080,1096,0.997160792350769
+32, New Onset Seizure , Pediatrics - Neonatal,an abdominal migraine,PROBLEM,1123,1144,0.9661628603935242
+32, New Onset Seizure , Pediatrics - Neonatal,food intolerance,PROBLEM,1201,1217,0.6931321024894714
+32, New Onset Seizure , Pediatrics - Neonatal,surgical procedures,TREATMENT,1271,1290,0.9772189855575562
+32, New Onset Seizure , Pediatrics - Neonatal,epilepsy,PROBLEM,1347,1355,0.9822413325309753
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,C - sections,TREATMENT,162,172,0.7268526554107666
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,ampicillin,TREATMENT,227,237,0.9986833930015564
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,preterm contractions,PROBLEM,286,306,0.9991092681884766
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,progressive active labor,PROBLEM,313,337,0.9979813694953918
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,the terbutaline,TREATMENT,350,365,0.931633710861206
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,magnesium sulfate,TREATMENT,370,387,0.9925897121429443
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,Apgar scores,TEST,408,420,0.9837470054626465
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,Nuchal cord,PROBLEM,464,475,0.9685335159301758
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,Prenatal,TEST,508,516,0.9211022257804871
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,antibody,TEST,539,547,0.7892675399780273
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,rubella,PROBLEM,558,565,0.6555489897727966
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,prematurity,PROBLEM,679,690,0.998713493347168
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,sepsis,PROBLEM,707,713,0.9972217082977295
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,mild retractions,PROBLEM,764,780,0.7781366109848022
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,CRP,TEST,787,790,0.8751882910728455
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,blood cultures,TEST,792,806,0.9084534645080566
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,D10,TREATMENT,831,834,0.7748823761940002
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,Ampicillin,TREATMENT,862,872,0.9958416819572449
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,gentamicin,TREATMENT,877,887,0.9966705441474915
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,feeding issues,PROBLEM,984,998,0.8796718120574951
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,Ampicillin,TREATMENT,1040,1050,0.9894281029701233
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,gentamicin,TREATMENT,1055,1065,0.990138053894043
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,blood cultures,TEST,1118,1132,0.9372633695602417
+33, Neonatal Discharge Summary , Pediatrics - Neonatal,OG tube,TREATMENT,1265,1272,0.7299188375473022
+34, Normal Child Exam Template , Pediatrics - Neonatal,cyanosis,PROBLEM,203,211,0.9970292448997498
+34, Normal Child Exam Template , Pediatrics - Neonatal,pallor,PROBLEM,213,219,0.9974533915519714
+34, Normal Child Exam Template , Pediatrics - Neonatal,icterus,PROBLEM,224,231,0.9969276785850525
+34, Normal Child Exam Template , Pediatrics - Neonatal,red,PROBLEM,347,350,0.5214369297027588
+34, Normal Child Exam Template , Pediatrics - Neonatal,cleft,PROBLEM,434,439,0.9644307494163513
+34, Normal Child Exam Template , Pediatrics - Neonatal,masses,PROBLEM,465,471,0.9845985174179077
+34, Normal Child Exam Template , Pediatrics - Neonatal,murmur,PROBLEM,563,569,0.9794228672981262
+34, Normal Child Exam Template , Pediatrics - Neonatal,hepatosplenomegaly,PROBLEM,595,613,0.9978138208389282
+34, Normal Child Exam Template , Pediatrics - Neonatal,deformity,PROBLEM,751,760,0.9840456247329712
+34, Normal Child Exam Template , Pediatrics - Neonatal,click,PROBLEM,864,869,0.751717746257782
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,Skull,TEST,7,12,0.5727748870849609
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,Plagiocephaly,PROBLEM,46,59,0.9758879542350769
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,Multiple images of the skull,TEST,74,102,0.7268100380897522
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,Multiple images,TEST,167,182,0.816718578338623
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,skull,TEST,190,195,0.6661073565483093
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,the cranial sutures,TREATMENT,257,276,0.8681662082672119
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,closure,PROBLEM,297,304,0.9707897901535034
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,any craniosynostosis,PROBLEM,330,350,0.851348876953125
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,radiographic,PROBLEM,364,376,0.6836702227592468
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,plagiocephaly,PROBLEM,389,402,0.9884222149848938
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,craniosynostosis,PROBLEM,433,449,0.9962149262428284
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,radiographic,PROBLEM,453,465,0.8422223329544067
+35, Multiple Images of Skull (Pediatric) , Pediatrics - Neonatal,plagiocephaly,PROBLEM,486,499,0.9961891770362854
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,Respiratory distress syndrome,PROBLEM,22,51,0.9990354180335999
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,intrauterine growth restriction,PROBLEM,53,84,0.9923691749572754
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,thrombocytopenia,PROBLEM,86,102,0.9984582662582397
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,hypoglycemia,PROBLEM,104,116,0.9972246885299683
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,retinal immaturity,PROBLEM,118,136,0.9972425699234009
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,birth weight,TEST,236,248,0.7517025470733643
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,prenatal care,TREATMENT,371,384,0.865180253982544
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,low amniotic fluid index,PROBLEM,421,445,0.9835469126701355
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,hypertension,PROBLEM,450,462,0.9987809062004089
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,evolving preeclampsia,PROBLEM,486,507,0.9962879419326782
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,a C,TREATMENT,516,519,0.5838932991027832
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,the nonreassuring fetal status,PROBLEM,541,571,0.9859448671340942
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,Apgar scores,TEST,601,613,0.9775377511978149
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,care,TREATMENT,796,800,0.4903588891029358
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,breast milk,PROBLEM,1178,1189,0.717467188835144
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,some abdominal distention,PROBLEM,1219,1244,0.9908482432365417
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,feeds,TREATMENT,1255,1260,0.629645049571991
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,Mylicon drops,TREATMENT,1319,1332,0.9808084964752197
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,glycerin suppositories,TREATMENT,1337,1359,0.9918963313102722
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,Abdominal ultrasound,TEST,1361,1381,0.9543032646179199
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,gaseous,PROBLEM,1389,1396,0.9538379311561584
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,distention,PROBLEM,1397,1407,0.8362555503845215
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,signs,PROBLEM,1416,1421,0.465486615896225
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,feedings,PROBLEM,1503,1511,0.9162402153015137
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,cal,PROBLEM,1642,1645,0.7077599763870239
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,apnea,PROBLEM,1822,1827,0.838410496711731
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,spells,PROBLEM,1828,1834,0.6353633403778076
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,bradycardia,PROBLEM,1839,1850,0.9696632027626038
+36, Neonatal Discharge Summary - 1 , Pediatrics - Neonatal,desat,PROBLEM,1854,1859,0.9399174451828003
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,mastoiditis,PROBLEM,35,46,0.995235025882721
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,Right,PROBLEM,61,66,0.5710134506225586
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,acute otitis media,PROBLEM,67,85,0.8359389305114746
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,Severe ear pain,PROBLEM,90,105,0.9939752221107483
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,a CT scan,TEST,217,226,0.9876118302345276
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,mastoiditis,PROBLEM,256,267,0.9979557991027832
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,very severe ear pain,PROBLEM,287,307,0.895103931427002
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,blood,PROBLEM,312,317,0.955057680606842
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,a temperature,TEST,361,374,0.7678046822547913
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,IV Unasyn,TREATMENT,443,452,0.990386962890625
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,Morphine,TREATMENT,491,499,0.998365581035614
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,Vicodin,TREATMENT,504,511,0.9982879757881165
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,pain,PROBLEM,516,520,0.826702892780304
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,s pain,PROBLEM,581,587,0.9168813228607178
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,swelling of his cervical area,PROBLEM,607,636,0.864963173866272
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,the CT scan,TEST,728,739,0.9298798441886902
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,the CT scan,TEST,758,769,0.9821688532829285
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,mastoiditis,PROBLEM,794,805,0.9962742328643799
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,IV fluid,TREATMENT,834,842,0.8773696422576904
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,narcotics,TREATMENT,847,856,0.9765549302101135
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,pain,PROBLEM,861,865,0.9294509291648865
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,Unasyn,PROBLEM,877,883,0.8075299859046936
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,his pain,PROBLEM,938,946,0.9503380060195923
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,respiratory distress,PROBLEM,1132,1152,0.9924095869064331
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,temperature,TEST,1171,1182,0.5263229012489319
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,heart,TEST,1192,1197,0.932971179485321
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,rate,PROBLEM,1198,1202,0.9274746775627136
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,blood pressure,TEST,1207,1221,0.9918105602264404
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,respiratory,TEST,1230,1241,0.9388070702552795
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,rate,PROBLEM,1242,1246,0.5017259120941162
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,HEENT,TEST,1263,1268,0.8479727506637573
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,ear,PROBLEM,1276,1279,0.9002585411071777
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,redness,PROBLEM,1289,1296,0.9957215785980225
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,The area,PROBLEM,1298,1306,0.8947873115539551
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,nontender,PROBLEM,1325,1334,0.8773549199104309
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,a large posterior chains node,PROBLEM,1345,1374,0.9886876344680786
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,nontender,PROBLEM,1383,1392,0.9287233352661133
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,the swelling,PROBLEM,1397,1409,0.9548620581626892
+37, Mastoiditis - Discharge Summary , Pediatrics - Neonatal,area,PROBLEM,1418,1422,0.6016799211502075
+38, Mediastinal Exploration , Pediatrics - Neonatal,Mediastinal exploration,TREATMENT,21,44,0.8936784267425537
+38, Mediastinal Exploration , Pediatrics - Neonatal,delayed primary chest closure,TREATMENT,49,78,0.9842064380645752
+38, Mediastinal Exploration , Pediatrics - Neonatal,a modified stage I Norwood procedure,TREATMENT,158,194,0.9179460406303406
+38, Mediastinal Exploration , Pediatrics - Neonatal,a Sano modification,TREATMENT,200,219,0.9742777943611145
+38, Mediastinal Exploration , Pediatrics - Neonatal,an unexplained cardiac arrest,PROBLEM,245,274,0.9674811363220215
+38, Mediastinal Exploration , Pediatrics - Neonatal,the procedure,TREATMENT,296,309,0.813788115978241
+38, Mediastinal Exploration , Pediatrics - Neonatal,extracorporeal membrane oxygenation,TREATMENT,341,376,0.9972465634346008
+38, Mediastinal Exploration , Pediatrics - Neonatal,cardiopulmonary bypass,TREATMENT,430,452,0.995942234992981
+38, Mediastinal Exploration , Pediatrics - Neonatal,extracorporeal membrane oxygenation,TREATMENT,506,541,0.9964396953582764
+38, Mediastinal Exploration , Pediatrics - Neonatal,delayed primary chest closure,TREATMENT,611,640,0.982416033744812
+38, Mediastinal Exploration , Pediatrics - Neonatal,modified stage I Norwood procedure,TREATMENT,684,718,0.9687511324882507
+38, Mediastinal Exploration , Pediatrics - Neonatal,modified stage I Norwood procedure,TREATMENT,763,797,0.9728519320487976
+38, Mediastinal Exploration , Pediatrics - Neonatal,intramediastinal purulence,PROBLEM,883,909,0.9856784343719482
+38, Mediastinal Exploration , Pediatrics - Neonatal,hematoma,PROBLEM,913,921,0.9541950225830078
+38, Mediastinal Exploration , Pediatrics - Neonatal,procedure,TREATMENT,944,953,0.5031302571296692
+38, Mediastinal Exploration , Pediatrics - Neonatal,performance,TREATMENT,986,997,0.9090902805328369
+38, Mediastinal Exploration , Pediatrics - Neonatal,anesthesia,TREATMENT,1206,1216,0.9813470840454102
+38, Mediastinal Exploration , Pediatrics - Neonatal,the chest drains,TREATMENT,1288,1304,0.9501721858978271
+38, Mediastinal Exploration , Pediatrics - Neonatal,segmental,TREATMENT,1408,1417,0.9046058058738708
+38, Mediastinal Exploration , Pediatrics - Neonatal,diluted antibiotic irrigation,TREATMENT,1491,1520,0.9203160405158997
+38, Mediastinal Exploration , Pediatrics - Neonatal,pleural cavities,TREATMENT,1530,1546,0.7475630044937134
+38, Mediastinal Exploration , Pediatrics - Neonatal,a,TREATMENT,1566,1567,0.476126492023468
+38, Mediastinal Exploration , Pediatrics - Neonatal,Blake drain,TREATMENT,1608,1619,0.7790981531143188
+38, Mediastinal Exploration , Pediatrics - Neonatal,titanium clips,TREATMENT,1643,1657,0.9450641870498657
+38, Mediastinal Exploration , Pediatrics - Neonatal,-,TREATMENT,1710,1711,0.42326024174690247
+38, Mediastinal Exploration , Pediatrics - Neonatal,connection,PROBLEM,1714,1724,0.7122316956520081
+38, Mediastinal Exploration , Pediatrics - Neonatal,ventriculotomy,TREATMENT,1764,1778,0.9053267240524292
+38, Mediastinal Exploration , Pediatrics - Neonatal,spaces,TREATMENT,1792,1798,0.7324857711791992
+38, Mediastinal Exploration , Pediatrics - Neonatal,paste,TREATMENT,1867,1872,0.8552474975585938
+38, Mediastinal Exploration , Pediatrics - Neonatal,steel wires,TREATMENT,1901,1912,0.9070309996604919
+38, Mediastinal Exploration , Pediatrics - Neonatal,subcutaneous tissue,TREATMENT,1918,1937,0.623363196849823
+38, Mediastinal Exploration , Pediatrics - Neonatal,central venous pressure,TREATMENT,2019,2042,0.7949520945549011
+38, Mediastinal Exploration , Pediatrics - Neonatal,desaturation,TREATMENT,2046,2058,0.8643726110458374
+38, Mediastinal Exploration , Pediatrics - Neonatal,procedure,TREATMENT,2086,2095,0.9065308570861816
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,Kawasaki disease,PROBLEM,23,39,0.7887555360794067
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,Kawasaki disease,PROBLEM,63,79,0.9880566596984863
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,Kawasaki,PROBLEM,194,202,0.9955617189407349
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,fever,PROBLEM,208,213,0.9975366592407227
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,conjunctivitis,PROBLEM,239,253,0.9991421699523926
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,mild arthritis,PROBLEM,255,269,0.9988685846328735
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,edema,PROBLEM,275,280,0.9987363219261169
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,rash,PROBLEM,282,286,0.9989385008811951
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,elevated neutrophils,PROBLEM,307,327,0.9980840682983398
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,thrombocytosis,PROBLEM,332,346,0.9922494888305664
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,elevated CRP,PROBLEM,348,360,0.8549290895462036
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,ESR,TEST,365,368,0.7134382128715515
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,a fever,PROBLEM,411,418,0.8735659122467041
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,aspirin,TREATMENT,525,532,0.9945816397666931
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,IVIG,TREATMENT,537,541,0.983116626739502
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,Echocardiogram,TEST,543,557,0.9967687129974365
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,IVIG,TEST,593,597,0.9966450333595276
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,fever,PROBLEM,651,656,0.986166775226593
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,more fever,PROBLEM,736,746,0.7135152816772461
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,his fever,PROBLEM,755,764,0.9890089631080627
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,his rash,PROBLEM,769,777,0.9943785667419434
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,conjunctivitis,PROBLEM,825,839,0.7858983278274536
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,redness of mucous membranes,PROBLEM,847,874,0.9903213977813721
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,aspirin,TREATMENT,1135,1142,0.9956637024879456
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,Prevacid,TREATMENT,1184,1192,0.9406311511993408
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,his GI,PROBLEM,1209,1215,0.7900625467300415
+39, Kawasaki Disease - Discharge Summary , Pediatrics - Neonatal,aspirin,TREATMENT,1221,1228,0.9020386934280396
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,stage 2 neuroblastoma,PROBLEM,70,91,0.9819121956825256
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,his disease,PROBLEM,123,134,0.993858277797699
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,neuroblastoma,PROBLEM,239,252,0.9972801208496094
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,second primary,PROBLEM,472,486,0.8080801963806152
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,neuroblastoma,PROBLEM,559,572,0.9979016780853271
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,chemotherapy,TREATMENT,636,648,0.997878909111023
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,chemotherapy,TREATMENT,703,715,0.9960618615150452
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,carboplatin,TREATMENT,734,745,0.9989357590675354
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,cyclophosphamide,TREATMENT,747,763,0.9990455508232117
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,doxorubicin,TREATMENT,769,780,0.9991581439971924
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,G,TEST,794,795,0.5371360778808594
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,his chemotherapy,TREATMENT,812,828,0.8246555924415588
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,neutropenia,PROBLEM,836,847,0.9967622756958008
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,nasal congestion,PROBLEM,970,986,0.9849796295166016
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,fevers,PROBLEM,1044,1050,0.9576917886734009
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,somewhat,PROBLEM,1063,1071,0.5176982283592224
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,diminished appetite,PROBLEM,1072,1091,0.7609164714813232
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,diarrhea,PROBLEM,1181,1189,0.9810623526573181
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,appreciated,PROBLEM,1211,1222,0.6363998651504517
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,nausea,PROBLEM,1223,1229,0.9905611872673035
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,vomiting,PROBLEM,1233,1241,0.9955565333366394
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,fluconazole,TREATMENT,1268,1279,0.9963584542274475
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,thrush,PROBLEM,1306,1312,0.9939239621162415
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,OF,TREATMENT,1330,1332,0.7770763635635376
+40, Neuroblastoma - Consult , Pediatrics - Neonatal,pathology,TEST,1392,1401,0.827742874622345
+41, Neonatal Consult , Pediatrics - Neonatal,sepsis,PROBLEM,76,82,0.9955279231071472
+41, Neonatal Consult , Pediatrics - Neonatal,sepsis,PROBLEM,194,200,0.9976746439933777
+41, Neonatal Consult , Pediatrics - Neonatal,congenital heart disease,PROBLEM,214,238,0.9987714290618896
+41, Neonatal Consult , Pediatrics - Neonatal,a fever,PROBLEM,256,263,0.7505890130996704
+41, Neonatal Consult , Pediatrics - Neonatal,sepsis,PROBLEM,389,395,0.996768593788147
+41, Neonatal Consult , Pediatrics - Neonatal,the sepsis workup,TEST,401,418,0.8396599292755127
+41, Neonatal Consult , Pediatrics - Neonatal,CBC,TEST,429,432,0.5886913537979126
+41, Neonatal Consult , Pediatrics - Neonatal,UA,TEST,434,436,0.7237236499786377
+41, Neonatal Consult , Pediatrics - Neonatal,LP,TEST,438,440,0.7464603781700134
+41, Neonatal Consult , Pediatrics - Neonatal,CMP,TEST,446,449,0.6773455142974854
+41, Neonatal Consult , Pediatrics - Neonatal,a murmur,PROBLEM,461,469,0.9954603314399719
+41, Neonatal Consult , Pediatrics - Neonatal,an echo,TEST,497,504,0.973595142364502
+41, Neonatal Consult , Pediatrics - Neonatal,ampicillin,TREATMENT,534,544,0.9982585310935974
+41, Neonatal Consult , Pediatrics - Neonatal,cefotaxime,TREATMENT,549,559,0.9974476099014282
+41, Neonatal Consult , Pediatrics - Neonatal,patent foramen ovale / ASD,PROBLEM,600,624,0.964790940284729
+41, Neonatal Consult , Pediatrics - Neonatal,primary pulmonary stenosis,PROBLEM,630,656,0.9984056949615479
+41, Neonatal Consult , Pediatrics - Neonatal,severe congenital heart disease,PROBLEM,678,709,0.9980506896972656
+41, Neonatal Consult , Pediatrics - Neonatal,vancomycin,TREATMENT,738,748,0.9985529780387878
+41, Neonatal Consult , Pediatrics - Neonatal,ampicillin,TREATMENT,750,760,0.9988493919372559
+41, Neonatal Consult , Pediatrics - Neonatal,cefotaxime,TREATMENT,766,776,0.9986121654510498
+41, Neonatal Consult , Pediatrics - Neonatal,oxygen,TREATMENT,837,843,0.43269822001457214
+41, Neonatal Consult , Pediatrics - Neonatal,some subcostal,PROBLEM,892,906,0.9283715486526489
+41, Neonatal Consult , Pediatrics - Neonatal,retractions,PROBLEM,907,918,0.975788414478302
+41, Neonatal Consult , Pediatrics - Neonatal,subcostal retractions,PROBLEM,973,994,0.9763225317001343
+41, Neonatal Consult , Pediatrics - Neonatal,oxygen,TREATMENT,1020,1026,0.4331631362438202
+41, Neonatal Consult , Pediatrics - Neonatal,urine,PROBLEM,1050,1055,0.8897308111190796
+41, Neonatal Consult , Pediatrics - Neonatal,stool,PROBLEM,1060,1065,0.9459793567657471
+41, Neonatal Consult , Pediatrics - Neonatal,stool,PROBLEM,1071,1076,0.5350497961044312
+41, Neonatal Consult , Pediatrics - Neonatal,green in,PROBLEM,1089,1097,0.7089135646820068
+41, Neonatal Consult , Pediatrics - Neonatal,fever,PROBLEM,1143,1148,0.908014178276062
+41, Neonatal Consult , Pediatrics - Neonatal,fever,PROBLEM,1275,1280,0.9548391103744507
+41, Neonatal Consult , Pediatrics - Neonatal,weight loss,PROBLEM,1287,1298,0.9578197002410889
+41, Neonatal Consult , Pediatrics - Neonatal,fever,PROBLEM,1330,1335,0.9899527430534363
+41, Neonatal Consult , Pediatrics - Neonatal,rash,PROBLEM,1340,1344,0.9981112480163574
+41, Neonatal Consult , Pediatrics - Neonatal,ear pain,PROBLEM,1349,1357,0.9952342510223389
+41, Neonatal Consult , Pediatrics - Neonatal,congestion,PROBLEM,1362,1372,0.895739734172821
+41, Neonatal Consult , Pediatrics - Neonatal,rhinorrhea,PROBLEM,1377,1387,0.9950200319290161
+41, Neonatal Consult , Pediatrics - Neonatal,throat,PROBLEM,1392,1398,0.9752786755561829
+41, Neonatal Consult , Pediatrics - Neonatal,pain,PROBLEM,1399,1403,0.7891293168067932
+41, Neonatal Consult , Pediatrics - Neonatal,neck,PROBLEM,1408,1412,0.9365653395652771
+41, Neonatal Consult , Pediatrics - Neonatal,pain,PROBLEM,1413,1417,0.6273649334907532
+41, Neonatal Consult , Pediatrics - Neonatal,changes,PROBLEM,1429,1436,0.5550681352615356
+41, Neonatal Consult , Pediatrics - Neonatal,conjunctivitis,PROBLEM,1441,1455,0.9861819744110107
+41, Neonatal Consult , Pediatrics - Neonatal,cough,PROBLEM,1460,1465,0.7616176009178162
+41, Neonatal Consult , Pediatrics - Neonatal,dyspnea,PROBLEM,1470,1477,0.9726980328559875
+41, Neonatal Consult , Pediatrics - Neonatal,vomiting,PROBLEM,1482,1490,0.9455190300941467
+41, Neonatal Consult , Pediatrics - Neonatal,diarrhea,PROBLEM,1495,1503,0.9849022030830383
+41, Neonatal Consult , Pediatrics - Neonatal,dysuria,PROBLEM,1512,1519,0.9614808559417725
+41, Neonatal Consult , Pediatrics - Neonatal,According,PROBLEM,1521,1530,0.7021071910858154
+41, Neonatal Consult , Pediatrics - Neonatal,floppy,PROBLEM,1549,1555,0.9646407961845398
+41, Neonatal Consult , Pediatrics - Neonatal,fever,PROBLEM,1570,1575,0.9814679026603699
+41, Neonatal Consult , Pediatrics - Neonatal,stools,PROBLEM,1601,1607,0.9728533625602722
+41, Neonatal Consult , Pediatrics - Neonatal,yellowish,PROBLEM,1634,1643,0.9838491678237915
+41, Neonatal Consult , Pediatrics - Neonatal,green,PROBLEM,1647,1652,0.9773353338241577
+41, Neonatal Consult , Pediatrics - Neonatal,the,PROBLEM,1673,1676,0.5241705775260925
+41, Neonatal Consult , Pediatrics - Neonatal,stool,PROBLEM,1677,1682,0.8248904347419739
+41, Neonatal Consult , Pediatrics - Neonatal,green,PROBLEM,1698,1703,0.9866237044334412
+41, Neonatal Consult , Pediatrics - Neonatal,urine,PROBLEM,1729,1734,0.5909461975097656
+41, Neonatal Consult , Pediatrics - Neonatal,a,PROBLEM,1742,1743,0.9705731868743896
+41, Neonatal Consult , Pediatrics - Neonatal,fever,PROBLEM,1768,1773,0.9811456799507141
+41, Neonatal Consult , Pediatrics - Neonatal,his,PROBLEM,1775,1778,0.8669273853302002
+41, Neonatal Consult , Pediatrics - Neonatal,urine,PROBLEM,1779,1784,0.6523563861846924
+41, Neonatal Consult , Pediatrics - Neonatal,low,PROBLEM,1794,1797,0.9099442958831787
+41, Neonatal Consult , Pediatrics - Neonatal,Pedialyte,PROBLEM,1818,1827,0.8960303068161011
+41, Neonatal Consult , Pediatrics - Neonatal,PA,PROBLEM,1829,1831,0.8315046429634094
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,failure - to - thrive,PROBLEM,305,322,0.9459741711616516
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,a murmur,PROBLEM,445,453,0.9959856271743774
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,mild respiratory distress,PROBLEM,638,663,0.9979398846626282
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,some signs,PROBLEM,672,682,0.7070013880729675
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,symptoms,PROBLEM,687,695,0.9475517272949219
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,heart failure,PROBLEM,699,712,0.9832727909088135
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,a prominent murmur,PROBLEM,721,739,0.9954063892364502
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,an echo,TEST,744,751,0.9838032722473145
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,a moderately - sized patent ductus arteriosus,PROBLEM,788,831,0.9965649247169495
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,very small VSD,PROBLEM,836,850,0.9950199127197266
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,some mild signs and symptoms,PROBLEM,855,883,0.9340766668319702
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,congestive heart failure,PROBLEM,887,911,0.9925260543823242
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,Pregnancy,PROBLEM,1125,1134,0.9452335238456726
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,hypertension,PROBLEM,1158,1170,0.9643317461013794
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,diabetes,PROBLEM,1172,1180,0.9969191551208496
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,rupture of membranes,PROBLEM,1324,1344,0.9735746383666992
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,group,PROBLEM,1348,1353,0.8513579964637756
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,B strep,PROBLEM,1354,1361,0.8536787033081055
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,of pregnancy,PROBLEM,1414,1426,0.7376275062561035
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,transmitted diseases,PROBLEM,1485,1505,0.9527685642242432
+42, Infant Not Gaining Weight , Pediatrics - Neonatal,other significant illness,PROBLEM,1509,1534,0.7587286829948425
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,Left communicating hydrocele,PROBLEM,25,53,0.9825912117958069
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,Left communicating hydrocele,PROBLEM,82,110,0.9487223625183105
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,Left inguinal hernia,PROBLEM,147,167,0.7528091073036194
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,hydrocele repair,TREATMENT,172,188,0.8814741373062134
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,fluid collection in the tunica vaginalis,PROBLEM,248,288,0.9288576245307922
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,peritesticular space on the left,PROBLEM,293,325,0.7285026907920837
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,a communicating hydrocele,PROBLEM,347,372,0.9961473345756531
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,The fluid size,PROBLEM,374,388,0.7358722686767578
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,patent processus vaginalis,PROBLEM,601,627,0.9942668080329895
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,communicating hydrocele,PROBLEM,632,655,0.995916485786438
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,the surgical treatment,TREATMENT,681,703,0.9630768895149231
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,operation,TREATMENT,783,792,0.6899310946464539
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,a very thin patent processus vaginalis,PROBLEM,837,875,0.8691429495811462
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,a rather sizeable hydrocele sac,PROBLEM,887,918,0.8887178301811218
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,left hemiscrotum,PROBLEM,926,942,0.7826848030090332
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,fluid,PROBLEM,986,991,0.9751307368278503
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,the hydrocele sac,PROBLEM,997,1014,0.8310486674308777
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,The processus vaginalis,PROBLEM,1016,1039,0.8516545295715332
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,peritoneal reflection,PROBLEM,1069,1090,0.6668604612350464
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,a high ligation,TREATMENT,1097,1112,0.751714289188385
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,other abnormalities,PROBLEM,1155,1174,0.8233164548873901
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,inhalation anesthetic,TREATMENT,1315,1336,0.8477818965911865
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,surgical time,TREATMENT,1385,1398,0.6040626168251038
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,The,PROBLEM,1423,1426,0.6157482862472534
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,s,TREATMENT,1435,1436,0.7885738611221313
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,a,TREATMENT,1523,1524,0.555702269077301
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,hernia,TREATMENT,1539,1545,0.6419864892959595
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,hydrocele repair,TREATMENT,1550,1566,0.8170686960220337
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,chlorhexidine,TREATMENT,1612,1625,0.6545259952545166
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,prep solution,TREATMENT,1632,1645,0.532131016254425
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,a,TREATMENT,1647,1648,0.5079726576805115
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,infiltration,TREATMENT,1655,1667,0.7064085602760315
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,block,PROBLEM,1668,1673,0.5002586841583252
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,an,TREATMENT,1685,1687,0.6319688558578491
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,iliohypogastric,TREATMENT,1705,1720,0.6422379016876221
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,block,PROBLEM,1727,1732,0.4586774706840515
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,Marcaine,TREATMENT,1758,1766,0.4761117398738861
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,dilute epinephrine,TREATMENT,1772,1790,0.692247748374939
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,incision,TREATMENT,1806,1814,0.5711041688919067
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,low in,TREATMENT,1824,1830,0.3885146975517273
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,prominent,PROBLEM,1867,1876,0.3377538323402405
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,folds,PROBLEM,1882,1887,0.6182188987731934
+43, Inguinal Hernia & Hydrocele Repair , Pediatrics - Neonatal,tissue dissection,TREATMENT,1894,1911,0.4606819152832031
+44, Infantile Spasms , Pediatrics - Neonatal,Arm,PROBLEM,18,21,0.617894172668457
+44, Infantile Spasms , Pediatrics - Neonatal,leg jerking,PROBLEM,26,37,0.7706832885742188
+44, Infantile Spasms , Pediatrics - Neonatal,bilateral arm and leg jerks,PROBLEM,145,172,0.8898316621780396
+44, Infantile Spasms , Pediatrics - Neonatal,apnea,PROBLEM,264,269,0.9951395988464355
+44, Infantile Spasms , Pediatrics - Neonatal,perioral cyanosis,PROBLEM,271,288,0.9986523389816284
+44, Infantile Spasms , Pediatrics - Neonatal,color changes,PROBLEM,293,306,0.9944666624069214
+44, Infantile Spasms , Pediatrics - Neonatal,back arching,PROBLEM,340,352,0.7198216319084167
+44, Infantile Spasms , Pediatrics - Neonatal,eye rolling,PROBLEM,411,422,0.7684036493301392
+44, Infantile Spasms , Pediatrics - Neonatal,diapers,PROBLEM,729,736,0.5674595832824707
+44, Infantile Spasms , Pediatrics - Neonatal,- yellow stools,PROBLEM,765,779,0.9058939814567566
+44, Infantile Spasms , Pediatrics - Neonatal,Negative fever,PROBLEM,809,823,0.9396047592163086
+44, Infantile Spasms , Pediatrics - Neonatal,some sneezing,PROBLEM,867,880,0.759116530418396
+44, Infantile Spasms , Pediatrics - Neonatal,hiccups,PROBLEM,885,892,0.9772524237632751
+44, Infantile Spasms , Pediatrics - Neonatal,some upper airway congestion,PROBLEM,921,949,0.8552548885345459
+44, Infantile Spasms , Pediatrics - Neonatal,vomiting,PROBLEM,987,995,0.9793567657470703
+44, Infantile Spasms , Pediatrics - Neonatal,diarrhea,PROBLEM,999,1007,0.9958827495574951
+44, Infantile Spasms , Pediatrics - Neonatal,movements,PROBLEM,1104,1113,0.6477938294410706
+44, Infantile Spasms , Pediatrics - Neonatal,rashes,PROBLEM,1154,1160,0.7589583992958069
+44, Infantile Spasms , Pediatrics - Neonatal,ex,PROBLEM,1434,1436,0.6870331764221191
+44, Infantile Spasms , Pediatrics - Neonatal,-,PROBLEM,1436,1437,0.7252628207206726
+44, Infantile Spasms , Pediatrics - Neonatal,- weeker,PROBLEM,1439,1446,0.47546684741973877
+44, Infantile Spasms , Pediatrics - Neonatal,vaginal,TREATMENT,1456,1463,0.6207869052886963
+44, Infantile Spasms , Pediatrics - Neonatal,assist,TREATMENT,1488,1494,0.6063091158866882
+44, Infantile Spasms , Pediatrics - Neonatal,complications,PROBLEM,1521,1534,0.4304460287094116
+44, Infantile Spasms , Pediatrics - Neonatal,diabetes,PROBLEM,1560,1568,0.5474298596382141
+44, Infantile Spasms , Pediatrics - Neonatal,infections,PROBLEM,1787,1797,0.6330836415290833
+44, Infantile Spasms , Pediatrics - Neonatal,infections,PROBLEM,1820,1830,0.42065805196762085
+44, Infantile Spasms , Pediatrics - Neonatal,fever,PROBLEM,1853,1858,0.8088750243186951
+44, Infantile Spasms , Pediatrics - Neonatal,antibiotics,TREATMENT,1978,1989,0.4772428870201111
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,hyperbilirubinemia,PROBLEM,72,90,0.9988362193107605
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,some hypoxia,PROBLEM,95,107,0.9884414672851562
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,a bilirubin,TEST,226,237,0.9647571444511414
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,some labs,TEST,301,310,0.9173728227615356
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,hypoxic,PROBLEM,337,344,0.9984146356582642
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,her oxygen,TEST,350,360,0.631645143032074
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,minimal supplemental oxygen,TREATMENT,374,401,0.9499548077583313
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,periodic breathing,PROBLEM,430,448,0.9986442923545837
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,diarrhea,PROBLEM,532,540,0.9981004595756531
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,vomiting,PROBLEM,544,552,0.9965123534202576
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,periodic breathing,PROBLEM,667,685,0.9979037046432495
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,hypoxic,PROBLEM,694,701,0.9974067807197571
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,septic,PROBLEM,734,740,0.9961821436882019
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,IM ampicillin,TREATMENT,769,782,0.9609529972076416
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,repeat C - section,TEST,859,875,0.5331908464431763
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,Birth,TEST,877,882,0.5466845035552979
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,placenta previa,PROBLEM,972,987,0.9853469133377075
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,asthma,PROBLEM,1107,1113,0.998386025428772
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,diabetes,PROBLEM,1118,1126,0.9960696697235107
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,exposure,PROBLEM,1143,1151,0.7868687510490417
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,second,PROBLEM,1155,1161,0.6591694951057434
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,smoke,PROBLEM,1167,1172,0.6126005053520203
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,a temperature,TEST,1228,1241,0.8442832827568054
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,pulse,TEST,1260,1265,0.9620686769485474
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,respirations,TEST,1285,1297,0.9199204444885254
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,oxygen saturation,TEST,1313,1330,0.8776587247848511
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,nasal cannula,TREATMENT,1409,1422,0.8573158383369446
+45, Hyperbilirubinemia - 4-day-old , Pediatrics - Neonatal,periodic,PROBLEM,1482,1490,0.5752158164978027
+46, Gastrostomy , Pediatrics - Neonatal,Feeding disorder,PROBLEM,27,43,0.9971799254417419
+46, Gastrostomy , Pediatrics - Neonatal,Down syndrome,PROBLEM,48,61,0.9959889650344849
+46, Gastrostomy , Pediatrics - Neonatal,Congenital heart disease,PROBLEM,66,90,0.996669590473175
+46, Gastrostomy , Pediatrics - Neonatal,Feeding disorder,PROBLEM,120,136,0.9970152378082275
+46, Gastrostomy , Pediatrics - Neonatal,Down syndrome,PROBLEM,141,154,0.9941983222961426
+46, Gastrostomy , Pediatrics - Neonatal,Congenital heart disease,PROBLEM,159,183,0.9973676800727844
+46, Gastrostomy , Pediatrics - Neonatal,Down syndrome,PROBLEM,343,356,0.9969992637634277
+46, Gastrostomy , Pediatrics - Neonatal,congenital heart disease,PROBLEM,361,385,0.9985198974609375
+46, Gastrostomy , Pediatrics - Neonatal,fed,TREATMENT,456,459,0.6676650643348694
+46, Gastrostomy , Pediatrics - Neonatal,mechanism,TREATMENT,476,485,0.6407854557037354
+46, Gastrostomy , Pediatrics - Neonatal,care,TREATMENT,585,589,0.7324832677841187
+46, Gastrostomy , Pediatrics - Neonatal,a gastrostomy,TREATMENT,627,640,0.9902761578559875
+46, Gastrostomy , Pediatrics - Neonatal,general anesthetic,TREATMENT,687,705,0.9897928237915039
+46, Gastrostomy , Pediatrics - Neonatal,left upper quadrant incision,TREATMENT,770,798,0.71659916639328
+46, Gastrostomy , Pediatrics - Neonatal,sharp dissection,TREATMENT,867,883,0.8543081283569336
+46, Gastrostomy , Pediatrics - Neonatal,a Babcock clamp,TREATMENT,997,1012,0.8999149799346924
+46, Gastrostomy , Pediatrics - Neonatal,a pursestring suture,TREATMENT,1093,1113,0.8063340187072754
+46, Gastrostomy , Pediatrics - Neonatal,Key,PROBLEM,1181,1184,0.9710982441902161
+46, Gastrostomy , Pediatrics - Neonatal,tubeless gastrostomy button,TREATMENT,1185,1212,0.9409584403038025
+46, Gastrostomy , Pediatrics - Neonatal,pursestring,TREATMENT,1254,1265,0.9088819026947021
+46, Gastrostomy , Pediatrics - Neonatal,the tube,TREATMENT,1280,1288,0.7063460946083069
+46, Gastrostomy , Pediatrics - Neonatal,-,TREATMENT,1401,1402,0.43360230326652527
+46, Gastrostomy , Pediatrics - Neonatal,affixing,TREATMENT,1412,1420,0.75391685962677
+46, Gastrostomy , Pediatrics - Neonatal,fascia,TREATMENT,1450,1456,0.8405151963233948
+46, Gastrostomy , Pediatrics - Neonatal,fascia,TREATMENT,1471,1477,0.8649265766143799
+46, Gastrostomy , Pediatrics - Neonatal,Vicryl,TREATMENT,1504,1510,0.865031361579895
+46, Gastrostomy , Pediatrics - Neonatal,tissue,TREATMENT,1525,1531,0.48961591720581055
+46, Gastrostomy , Pediatrics - Neonatal,Monocryl,TREATMENT,1590,1598,0.8418722748756409
+46, Gastrostomy , Pediatrics - Neonatal,balloon,TREATMENT,1604,1611,0.8030287623405457
+46, Gastrostomy , Pediatrics - Neonatal,mL,TREATMENT,1639,1641,0.8037210702896118
+46, Gastrostomy , Pediatrics - Neonatal,dressing,TREATMENT,1653,1661,0.9097254276275635
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,laparoscopic fundoplication,TREATMENT,32,59,0.9911422729492188
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,gastrostomy,TREATMENT,64,75,0.942337155342102
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,a tracheostomy,TREATMENT,188,202,0.9888370037078857
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,subglottic stenosis,PROBLEM,207,226,0.9980708360671997
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,Laparoscopic fundoplication and gastrostomy,TREATMENT,228,271,0.918626070022583
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,enteral feeding access,TREATMENT,305,327,0.990964949131012
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,decannulation,TREATMENT,424,437,0.9780962467193604
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,laryngotracheoplasty,TREATMENT,477,497,0.9962856769561768
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,a repeat endoscopic exam,TEST,574,598,0.905262291431427
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,airway caliber,PROBLEM,650,664,0.7911649942398071
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,a laparoscopic fundoplication,TREATMENT,682,711,0.9703922271728516
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,gastrostomy,TREATMENT,716,727,0.9646021127700806
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,episodes,PROBLEM,795,803,0.4999331831932068
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,retching,PROBLEM,807,815,0.8324506878852844
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,some diarrhea,PROBLEM,882,895,0.8604302406311035
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,poor feeding tolerance,PROBLEM,900,922,0.787116289138794
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,her feedings,TREATMENT,1026,1038,0.7644301652908325
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,G,TREATMENT,1073,1074,0.9422653913497925
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,- tube,TREATMENT,1074,1079,0.8289883136749268
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,excessive,PROBLEM,1128,1137,0.4969383776187897
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,stools,PROBLEM,1148,1154,0.6743122339248657
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,problems,PROBLEM,1199,1207,0.906807541847229
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,the gastrostomy site,TREATMENT,1213,1233,0.6507684588432312
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,exam,TEST,1249,1253,0.858902096748352
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,sites,TREATMENT,1338,1343,0.5748339295387268
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,induration,PROBLEM,1380,1390,0.6044120192527771
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,hernia,PROBLEM,1420,1426,0.9899001717567444
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,infection,PROBLEM,1430,1439,0.8614401817321777
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,gastrostomy button,TREATMENT,1466,1484,0.8869413137435913
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,gastrostomy,TREATMENT,1570,1581,0.7466670274734497
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,a,TREATMENT,1614,1615,0.6266364455223083
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,granulation,TREATMENT,1624,1635,0.5792078971862793
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,laparoscope,TREATMENT,1771,1782,0.8867263793945312
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,gastrostomy,TREATMENT,1802,1813,0.7735710740089417
+47, Fundoplication & Gastrostomy Followup , Pediatrics - Neonatal,protection,TREATMENT,2011,2021,0.5519770383834839
+48, Head Injury , Pediatrics - Neonatal,her flag device,TREATMENT,200,215,0.9398009777069092
+48, Head Injury , Pediatrics - Neonatal,loss of consciousness,PROBLEM,276,297,0.9555553793907166
+48, Head Injury , Pediatrics - Neonatal,dizzy,PROBLEM,312,317,0.9090924859046936
+48, Head Injury , Pediatrics - Neonatal,a headache,PROBLEM,337,347,0.9952816963195801
+48, Head Injury , Pediatrics - Neonatal,dizzier,PROBLEM,430,437,0.9968748092651367
+48, Head Injury , Pediatrics - Neonatal,diplopia,PROBLEM,541,549,0.9858883023262024
+48, Head Injury , Pediatrics - Neonatal,further evaluation,TEST,679,697,0.7960125803947449
+48, Head Injury , Pediatrics - Neonatal,Hypertension,PROBLEM,723,735,0.9981489181518555
+48, Head Injury , Pediatrics - Neonatal,an abdominal obstruction,PROBLEM,902,926,0.9874901175498962
+48, Head Injury , Pediatrics - Neonatal,infectious disease,PROBLEM,1123,1141,0.9854820966720581
+49, Gagging - 3-year-old , Pediatrics - Neonatal,gagging,PROBLEM,108,115,0.9943066239356995
+49, Gagging - 3-year-old , Pediatrics - Neonatal,gagging,PROBLEM,179,186,0.9960042834281921
+49, Gagging - 3-year-old , Pediatrics - Neonatal,vomiting,PROBLEM,191,199,0.9955229759216309
+49, Gagging - 3-year-old , Pediatrics - Neonatal,fever,PROBLEM,204,209,0.9869864583015442
+49, Gagging - 3-year-old , Pediatrics - Neonatal,constipation,PROBLEM,230,242,0.9987801909446716
+49, Gagging - 3-year-old , Pediatrics - Neonatal,an enema,TREATMENT,298,306,0.9748633503913879
+49, Gagging - 3-year-old , Pediatrics - Neonatal,rectal bleeding,PROBLEM,311,326,0.9985770583152771
+49, Gagging - 3-year-old , Pediatrics - Neonatal,some loose stool,PROBLEM,365,381,0.9939110279083252
+49, Gagging - 3-year-old , Pediatrics - Neonatal,dehydrated,PROBLEM,403,413,0.9982225298881531
+49, Gagging - 3-year-old , Pediatrics - Neonatal,IV fluid bolus,TREATMENT,429,443,0.9567322731018066
+49, Gagging - 3-year-old , Pediatrics - Neonatal,bleeding,PROBLEM,466,474,0.6296848654747009
+49, Gagging - 3-year-old , Pediatrics - Neonatal,G,TREATMENT,480,481,0.6968543529510498
+49, Gagging - 3-year-old , Pediatrics - Neonatal,- tube site,TREATMENT,481,491,0.7398803234100342
+49, Gagging - 3-year-old , Pediatrics - Neonatal,some fresh blood,PROBLEM,503,519,0.7842621803283691
+49, Gagging - 3-year-old , Pediatrics - Neonatal,G - tube site,TREATMENT,538,549,0.8557391166687012
+49, Gagging - 3-year-old , Pediatrics - Neonatal,hypertensive,PROBLEM,587,599,0.9904566407203674
+49, Gagging - 3-year-old , Pediatrics - Neonatal,upper endoscopy,TEST,664,679,0.9744551181793213
+49, Gagging - 3-year-old , Pediatrics - Neonatal,bleeding,PROBLEM,700,708,0.7510960698127747
+49, Gagging - 3-year-old , Pediatrics - Neonatal,PEHO syndrome,PROBLEM,734,747,0.9927334785461426
+49, Gagging - 3-year-old , Pediatrics - Neonatal,infantile spasm,PROBLEM,749,764,0.9987856149673462
+49, Gagging - 3-year-old , Pediatrics - Neonatal,right above knee amputation,TREATMENT,766,793,0.8422888517379761
+49, Gagging - 3-year-old , Pediatrics - Neonatal,developmental delay,PROBLEM,795,814,0.9932224750518799
+49, Gagging - 3-year-old , Pediatrics - Neonatal,G,TREATMENT,816,817,0.9890732169151306
+49, Gagging - 3-year-old , Pediatrics - Neonatal,- tube fundoplication,TREATMENT,817,837,0.8778514266014099
+49, Gagging - 3-year-old , Pediatrics - Neonatal,G,TREATMENT,864,865,0.9838078618049622
+49, Gagging - 3-year-old , Pediatrics - Neonatal,- tube fundoplication,TREATMENT,865,885,0.8132516741752625
+49, Gagging - 3-year-old , Pediatrics - Neonatal,above knee amputation,TREATMENT,907,928,0.9611766338348389
+49, Gagging - 3-year-old , Pediatrics - Neonatal,Depakene,TREATMENT,1160,1168,0.6576021909713745
+49, Gagging - 3-year-old , Pediatrics - Neonatal,Reglan,PROBLEM,1173,1179,0.9084538221359253
+49, Gagging - 3-year-old , Pediatrics - Neonatal,cancer,PROBLEM,1211,1217,0.9473734498023987
+49, Gagging - 3-year-old , Pediatrics - Neonatal,hemoglobin,TEST,1273,1283,0.9426944255828857
+49, Gagging - 3-year-old , Pediatrics - Neonatal,hematocrit,TEST,1289,1299,0.938697338104248
+49, Gagging - 3-year-old , Pediatrics - Neonatal,platelet,TEST,1306,1314,0.9611653685569763
+49, Gagging - 3-year-old , Pediatrics - Neonatal,stool,TEST,1341,1346,0.5736662149429321
+49, Gagging - 3-year-old , Pediatrics - Neonatal,dilated,TEST,1352,1359,0.8626363277435303
+49, Gagging - 3-year-old , Pediatrics - Neonatal,loops,TEST,1382,1387,0.6232904195785522
+49, Gagging - 3-year-old , Pediatrics - Neonatal,Sodium,TEST,1389,1395,0.8125687837600708
+49, Gagging - 3-year-old , Pediatrics - Neonatal,potassium,TEST,1401,1410,0.8096928596496582
+49, Gagging - 3-year-old , Pediatrics - Neonatal,chloride,TEST,1416,1424,0.9080673456192017
+49, Gagging - 3-year-old , Pediatrics - Neonatal,CO2,TEST,1429,1432,0.8962554931640625
+49, Gagging - 3-year-old , Pediatrics - Neonatal,BUN,TEST,1437,1440,0.765124499797821
+49, Gagging - 3-year-old , Pediatrics - Neonatal,creatinine,TEST,1445,1455,0.9156827330589294
+49, Gagging - 3-year-old , Pediatrics - Neonatal,AST,TEST,1459,1462,0.848934531211853
+49, Gagging - 3-year-old , Pediatrics - Neonatal,ALT,TEST,1477,1480,0.6505827903747559
+49, Gagging - 3-year-old , Pediatrics - Neonatal,albumin,TEST,1495,1502,0.9616640210151672
+49, Gagging - 3-year-old , Pediatrics - Neonatal,total,TEST,1508,1513,0.4995899498462677
+49, Gagging - 3-year-old , Pediatrics - Neonatal,bilirubin,TEST,1514,1523,0.9608780741691589
+49, Gagging - 3-year-old , Pediatrics - Neonatal,Earlier,TEST,1529,1536,0.8856070637702942
+49, Gagging - 3-year-old , Pediatrics - Neonatal,hemoglobin,TEST,1559,1569,0.9416119456291199
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,"Questionable foreign body, right nose",PROBLEM,18,55,0.9258658289909363
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,Belly and back pain,PROBLEM,57,76,0.9083877801895142
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,belly and back pain,PROBLEM,196,215,0.935941219329834
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,urine,PROBLEM,300,305,0.5792645215988159
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,any fevers,PROBLEM,349,359,0.6820288896560669
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,chills,PROBLEM,363,369,0.987068772315979
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,other illness,PROBLEM,377,390,0.9557865858078003
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,other acute complaints,PROBLEM,487,509,0.8275675177574158
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,a foul odor,PROBLEM,536,547,0.9228175282478333
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,a foreign body,PROBLEM,619,633,0.9696874022483826
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,the right nose,PROBLEM,637,651,0.8048243522644043
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,antibiotics,TREATMENT,724,735,0.9952042102813721
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,malodorous,PROBLEM,784,794,0.8859899640083313
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,the antibiotics,TREATMENT,843,858,0.8947499990463257
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,runny nose,PROBLEM,966,976,0.8824270963668823
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,earache,PROBLEM,978,985,0.985304057598114
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,sore throat,PROBLEM,990,1001,0.9959491491317749
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,cough,PROBLEM,1022,1027,0.8685405850410461
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,congestion,PROBLEM,1029,1039,0.9873364567756653
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,complaints,PROBLEM,1117,1127,0.9576095342636108
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,pain,PROBLEM,1148,1152,0.5288194417953491
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,bowel movement,PROBLEM,1158,1172,0.9292432069778442
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,urination,PROBLEM,1176,1185,0.6457312107086182
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,amoxicillin,TREATMENT,1399,1410,0.8893774151802063
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,PHYSICAL,PROBLEM,1465,1473,0.8745916485786438
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,distress,PROBLEM,1692,1700,0.7438055276870728
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,foul odor,PROBLEM,1836,1845,0.5458201169967651
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,drainage,PROBLEM,1879,1887,0.48967456817626953
+50, Foreign Body - Right Nose , Pediatrics - Neonatal,foreign body,PROBLEM,1926,1938,0.7705400586128235
+51, H&P - Infant with fever , Pediatrics - Neonatal,Irritable,PROBLEM,18,27,0.9760871529579163
+51, H&P - Infant with fever , Pediatrics - Neonatal,fever,PROBLEM,38,43,0.9840461015701294
+51, H&P - Infant with fever , Pediatrics - Neonatal,irritability,PROBLEM,190,202,0.9985308647155762
+51, H&P - Infant with fever , Pediatrics - Neonatal,fussiness,PROBLEM,204,213,0.9988002777099609
+51, H&P - Infant with fever , Pediatrics - Neonatal,vomiting,PROBLEM,231,239,0.9957789182662964
+51, H&P - Infant with fever , Pediatrics - Neonatal,fever,PROBLEM,250,255,0.9563600420951843
+51, H&P - Infant with fever , Pediatrics - Neonatal,a complete septic workup,TEST,325,349,0.9505782127380371
+51, H&P - Infant with fever , Pediatrics - Neonatal,sepsis,PROBLEM,405,411,0.6211103200912476
+51, H&P - Infant with fever , Pediatrics - Neonatal,term,PROBLEM,468,472,0.7751802802085876
+51, H&P - Infant with fever , Pediatrics - Neonatal,spontaneous vaginal delivery,TREATMENT,484,512,0.6521110534667969
+51, H&P - Infant with fever , Pediatrics - Neonatal,his hepatitis B vaccine,TREATMENT,578,601,0.827553391456604
+51, H&P - Infant with fever , Pediatrics - Neonatal,surgeries,TREATMENT,721,730,0.9392766356468201
+51, H&P - Infant with fever , Pediatrics - Neonatal,medications,TREATMENT,761,772,0.8061731457710266
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Vomiting,TEST,23,31,0.7418453693389893
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,gastroenteritis,PROBLEM,55,70,0.9981271624565125
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Goldenhar syndrome,PROBLEM,75,93,0.9821677803993225
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Severe gastroesophageal reflux,PROBLEM,98,128,0.979949951171875
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,aspiration,PROBLEM,149,159,0.9978176355361938
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,aspiration pneumonia,PROBLEM,164,184,0.9981610178947449
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Gastroenteritis,PROBLEM,209,224,0.9984642267227173
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,bowel obstruction,PROBLEM,232,249,0.9984207153320312
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Gastroesophageal reflux,PROBLEM,254,277,0.9988477230072021
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Goldenhar syndrome,PROBLEM,282,300,0.9746257066726685
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Anemia,PROBLEM,305,311,0.9974035620689392
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,iron deficiency,PROBLEM,322,337,0.9876238703727722
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,Goldenhar syndrome,PROBLEM,412,430,0.8882026672363281
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,a gastrostomy tube,TREATMENT,439,457,0.9107754826545715
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,a J - tube,TREATMENT,471,479,0.9293078780174255
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,vomiting,PROBLEM,512,520,0.972531795501709
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,her Goldenhar syndrome,PROBLEM,640,662,0.9923510551452637
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,problems with,PROBLEM,676,689,0.7486554384231567
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,aspiration,PROBLEM,690,700,0.9534863829612732
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,a G - tube,TREATMENT,741,749,0.8875437378883362
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,dysmorphic,PROBLEM,910,920,0.8371805548667908
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,slightly cachectic,PROBLEM,945,963,0.8551303148269653
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,microglia,PROBLEM,1008,1017,0.8208094239234924
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,torticollis,PROBLEM,1074,1085,0.9836658835411072
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,her temperature,TEST,1111,1126,0.7643100023269653
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,pulse,TEST,1134,1139,0.9723911285400391
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,respirations,TEST,1145,1157,0.9759473204612732
+52, Goldenhar Syndrome - Discharge Summary  , Pediatrics - Neonatal,pulse oximetry,TEST,1181,1195,0.8986369967460632
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,severe ear pain,PROBLEM,94,109,0.9985315203666687
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,severe ear pain,PROBLEM,142,157,0.9984567165374756
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,earaches,PROBLEM,223,231,0.9986679553985596
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,antibiotics,TREATMENT,309,320,0.9931702613830566
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,each earache episode,PROBLEM,326,346,0.8417806625366211
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,afebrile,PROBLEM,429,437,0.941974401473999
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,earache episodes,PROBLEM,455,471,0.963179349899292
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,upper respiratory symptoms,PROBLEM,492,518,0.9979739189147949
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,head trauma,PROBLEM,539,550,0.8886950016021729
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,complications,PROBLEM,673,686,0.8634327054023743
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,prenatal care,TREATMENT,704,717,0.8584012985229492
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,motor developmental milestones,PROBLEM,889,919,0.7500631213188171
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,an A /,PROBLEM,1317,1322,0.8520103096961975
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,student,PROBLEM,1324,1331,0.9849725961685181
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,hypertension,PROBLEM,1372,1384,0.9986706972122192
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,frequent heartburn symptoms,PROBLEM,1393,1420,0.997012197971344
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,over,PROBLEM,1441,1445,0.8253384828567505
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,-,PROBLEM,1445,1446,0.8779204487800598
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,medications,TREATMENT,1464,1475,0.5815389156341553
+53, Ear pain - Pediatric Consult , Pediatrics - Neonatal,heartburn,PROBLEM,2126,2135,0.817146360874176
+54, Circumcision - Infant , Pediatrics - Neonatal,lidocaine,TREATMENT,140,149,0.564656138420105
+54, Circumcision - Infant , Pediatrics - Neonatal,epinephrine,TREATMENT,158,169,0.9437904953956604
+54, Circumcision - Infant , Pediatrics - Neonatal,the procedure,TREATMENT,212,225,0.7972232103347778
+54, Circumcision - Infant , Pediatrics - Neonatal,infection,PROBLEM,273,282,0.9914374947547913
+54, Circumcision - Infant , Pediatrics - Neonatal,hemorrhage,PROBLEM,284,294,0.9965085387229919
+54, Circumcision - Infant , Pediatrics - Neonatal,meatal stenosis,PROBLEM,300,315,0.9973440170288086
+54, Circumcision - Infant , Pediatrics - Neonatal,fewer,PROBLEM,367,372,0.7919579148292542
+54, Circumcision - Infant , Pediatrics - Neonatal,urinary tract infections,PROBLEM,373,397,0.9822613596916199
+54, Circumcision - Infant , Pediatrics - Neonatal,hypospadias,PROBLEM,499,510,0.9978263974189758
+54, Circumcision - Infant , Pediatrics - Neonatal,chordee,PROBLEM,514,521,0.9797955751419067
+54, Circumcision - Infant , Pediatrics - Neonatal,the procedure,TREATMENT,531,544,0.8854663968086243
+54, Circumcision - Infant , Pediatrics - Neonatal,a dorsal penile block,TREATMENT,579,600,0.9083473682403564
+54, Circumcision - Infant , Pediatrics - Neonatal,% lidocaine,TREATMENT,607,618,0.7651022672653198
+54, Circumcision - Infant , Pediatrics - Neonatal,epinephrine,TREATMENT,627,638,0.9283549785614014
+54, Circumcision - Infant , Pediatrics - Neonatal,a tuberculin syringe,TREATMENT,645,665,0.9859461784362793
+54, Circumcision - Infant , Pediatrics - Neonatal,lidocaine,TREATMENT,680,689,0.9160125255584717
+54, Circumcision - Infant , Pediatrics - Neonatal,Betadine,TREATMENT,814,822,0.9737159013748169
+54, Circumcision - Infant , Pediatrics - Neonatal,a,TREATMENT,839,840,0.7918565273284912
+54, Circumcision - Infant , Pediatrics - Neonatal,sterile towel,TREATMENT,841,854,0.7655924558639526
+54, Circumcision - Infant , Pediatrics - Neonatal,the adhesions,PROBLEM,927,940,0.7053124904632568
+54, Circumcision - Infant , Pediatrics - Neonatal,glans,PROBLEM,953,958,0.7878046035766602
+54, Circumcision - Infant , Pediatrics - Neonatal,slit,TREATMENT,1044,1048,0.5277246236801147
+54, Circumcision - Infant , Pediatrics - Neonatal,adhesions,PROBLEM,1106,1115,0.6992613077163696
+54, Circumcision - Infant , Pediatrics - Neonatal,a XX,TREATMENT,1193,1197,0.6552407145500183
+54, Circumcision - Infant , Pediatrics - Neonatal,Plastibell,TREATMENT,1201,1211,0.881081223487854
+54, Circumcision - Infant , Pediatrics - Neonatal,hemostasis,TREATMENT,1282,1292,0.7960940003395081
+54, Circumcision - Infant , Pediatrics - Neonatal,hemorrhage,PROBLEM,1503,1513,0.8827546238899231
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,difficulty breathing,PROBLEM,75,95,0.9981037378311157
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,Difficulty breathing,PROBLEM,97,117,0.9777594208717346
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,Xopenex,TREATMENT,191,198,0.7593437433242798
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,amoxicillin,TREATMENT,225,236,0.99820876121521
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,reactive airway disease,PROBLEM,382,405,0.9991400837898254
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,some wheezing,PROBLEM,499,512,0.9794855117797852
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,pneumonia,PROBLEM,536,545,0.996758759021759
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,albuterol,TREATMENT,648,657,0.9980006814002991
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,fever,PROBLEM,698,703,0.9453892707824707
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,vomiting,PROBLEM,718,726,0.9937066435813904
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,diarrhea,PROBLEM,731,739,0.9971303343772888
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,Increased work of breathing,PROBLEM,741,768,0.9881448745727539
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,retractions,PROBLEM,774,785,0.991454005241394
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,audible wheezes,PROBLEM,790,805,0.996731698513031
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,rashes,PROBLEM,882,888,0.9967105388641357
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,surgeries,TREATMENT,966,975,0.565731942653656
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,allergies,PROBLEM,977,986,0.9384506940841675
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,complications,PROBLEM,1084,1097,0.9688951373100281
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,surgeries,PROBLEM,1117,1126,0.8921405076980591
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,ill,PROBLEM,1209,1212,0.6721261143684387
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,travel,PROBLEM,1226,1232,0.8678297400474548
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,condition,PROBLEM,1254,1263,0.9127404689788818
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,distress,PROBLEM,1516,1524,0.4006633162498474
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,dry,PROBLEM,1646,1649,0.8048650026321411
+55, Difficulty Breathing - ER Visit  , Pediatrics - Neonatal,dry,PROBLEM,1725,1728,0.9433159828186035
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,Respiratory distress,PROBLEM,24,44,0.9988020658493042
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,Reactive airways disease,PROBLEM,49,73,0.9984162449836731
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,Respiratory distress,PROBLEM,99,119,0.9984540939331055
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,Reactive airways disease,PROBLEM,124,148,0.9987017512321472
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,Pneumonia,PROBLEM,153,162,0.996985137462616
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,asthma,PROBLEM,276,282,0.9990174770355225
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,reactive airways disease,PROBLEM,286,310,0.9989127516746521
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,URI symptoms,PROBLEM,356,368,0.9984713792800903
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,abrupt,PROBLEM,382,388,0.6171045899391174
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,cough,PROBLEM,398,403,0.9747554659843445
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,increased work of breathing,PROBLEM,408,435,0.9940996766090393
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,nebulized treatments,TREATMENT,491,511,0.9924699068069458
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,continuous nebulized albuterol,TREATMENT,706,736,0.990074634552002
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,his respiratory distress,PROBLEM,750,774,0.9959538578987122
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,inhaled,TREATMENT,793,800,0.9027052521705627
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,systemic corticosteroids,TREATMENT,812,836,0.9920481443405151
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,An x - ray,TEST,838,846,0.9878498315811157
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,infiltrate,PROBLEM,859,869,0.9977232813835144
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,a right upper lobe infiltrate,PROBLEM,922,951,0.9906986355781555
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,atelectasis,PROBLEM,959,970,0.9943023920059204
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,reading,PROBLEM,998,1005,0.9797201752662659
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,antibiotics,TREATMENT,1042,1053,0.8953240513801575
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,his fever,PROBLEM,1058,1067,0.7571261525154114
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,a white count,TEST,1151,1164,0.7757545113563538
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,the pneumonia,PROBLEM,1245,1258,0.9093924760818481
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,amoxicillin,TREATMENT,1301,1312,0.89800626039505
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,air,TREATMENT,1382,1385,0.7345196008682251
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,some bilateral wheezing,PROBLEM,1426,1449,0.9722936749458313
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,tachypnea,PROBLEM,1458,1467,0.9983910918235779
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,PHYSICAL,PROBLEM,1479,1487,0.9809963703155518
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,acute distress,PROBLEM,1516,1530,0.6429403424263
+56, Discharge Summary - Respiratory Distress , Pediatrics - Neonatal,distress,PROBLEM,1691,1699,0.5187867283821106
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,congestion,PROBLEM,62,72,0.9968855977058411
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,fever,PROBLEM,77,82,0.995461642742157
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,a cough,PROBLEM,189,196,0.9961820840835571
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,congestion,PROBLEM,201,211,0.9953926801681519
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,irregular breathing,PROBLEM,260,279,0.9985007643699646
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,rapid breathing,PROBLEM,310,325,0.9983498454093933
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,retractions,PROBLEM,342,353,0.9976091384887695
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,the cough,PROBLEM,378,387,0.9963817596435547
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,paroxysmal,PROBLEM,400,410,0.9072043299674988
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,posttussive emesis,PROBLEM,431,449,0.9978368282318115
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,short respiratory pauses,PROBLEM,471,495,0.9978272914886475
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,the coughing events,PROBLEM,506,525,0.7933581471443176
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,s temperature,TEST,539,552,0.6537265181541443
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,a decreased oral intake,PROBLEM,597,620,0.9479572176933289
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,decreased wet diapers,PROBLEM,625,646,0.9387885928153992
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,URI symptoms,PROBLEM,678,690,0.9965364933013916
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,diarrhea,PROBLEM,719,727,0.9972328543663025
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,her feedings,TREATMENT,788,800,0.7934147715568542
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,known,PROBLEM,963,968,0.573829710483551
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,drug allergies,PROBLEM,969,983,0.6594417095184326
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,asthma,PROBLEM,1308,1314,0.9976288676261902
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,diabetes,PROBLEM,1319,1327,0.9956100583076477
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,congestion,PROBLEM,1612,1622,0.8593416810035706
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,coughing,PROBLEM,1714,1722,0.7237661480903625
+57, Congestion & Fever - 2-month-old , Pediatrics - Neonatal,emesis,PROBLEM,1745,1751,0.7542996406555176
+58, Congestion - 21-day-old , Pediatrics - Neonatal,Congestion,PROBLEM,18,28,0.9878147840499878
+58, Congestion - 21-day-old , Pediatrics - Neonatal,tactile temperature,PROBLEM,30,49,0.976793646812439
+58, Congestion - 21-day-old , Pediatrics - Neonatal,congestion,PROBLEM,143,153,0.9919543862342834
+58, Congestion - 21-day-old , Pediatrics - Neonatal,yellow discharge,PROBLEM,180,196,0.9841940402984619
+58, Congestion - 21-day-old , Pediatrics - Neonatal,mild problems with his breathing,PROBLEM,249,281,0.9366961717605591
+58, Congestion - 21-day-old , Pediatrics - Neonatal,perioral cyanosis,PROBLEM,318,335,0.9947878122329712
+58, Congestion - 21-day-old , Pediatrics - Neonatal,retractions,PROBLEM,339,350,0.9945698380470276
+58, Congestion - 21-day-old , Pediatrics - Neonatal,a tactile temperature,PROBLEM,383,404,0.8653426766395569
+58, Congestion - 21-day-old , Pediatrics - Neonatal,Tylenol,TREATMENT,426,433,0.9955623149871826
+58, Congestion - 21-day-old , Pediatrics - Neonatal,some decreased p,PROBLEM,453,469,0.6741084456443787
+58, Congestion - 21-day-old , Pediatrics - Neonatal,his respiratory congestion,PROBLEM,569,595,0.990896999835968
+58, Congestion - 21-day-old , Pediatrics - Neonatal,tired,PROBLEM,631,636,0.4727984666824341
+58, Congestion - 21-day-old , Pediatrics - Neonatal,fussy,PROBLEM,650,655,0.9816344380378723
+58, Congestion - 21-day-old , Pediatrics - Neonatal,albuterol treatments,TREATMENT,718,738,0.9932921528816223
+58, Congestion - 21-day-old , Pediatrics - Neonatal,His urine output,TEST,756,772,0.9473662376403809
+58, Congestion - 21-day-old , Pediatrics - Neonatal,diapers,TREATMENT,880,887,0.6009843349456787
+58, Congestion - 21-day-old , Pediatrics - Neonatal,diarrhea,PROBLEM,917,925,0.9833131432533264
+58, Congestion - 21-day-old , Pediatrics - Neonatal,rashes,PROBLEM,1014,1020,0.9872386455535889
+58, Congestion - 21-day-old , Pediatrics - Neonatal,neonatal acne,PROBLEM,1038,1051,0.8844029903411865
+58, Congestion - 21-day-old , Pediatrics - Neonatal,vomiting,PROBLEM,1079,1087,0.991935133934021
+58, Congestion - 21-day-old , Pediatrics - Neonatal,apnea,PROBLEM,1089,1094,0.9882698059082031
+58, Congestion - 21-day-old , Pediatrics - Neonatal,a,PROBLEM,1153,1154,0.5659339427947998
+58, Congestion - 21-day-old , Pediatrics - Neonatal,lumbar puncture,TEST,1155,1170,0.7870069742202759
+58, Congestion - 21-day-old , Pediatrics - Neonatal,fluid,TEST,1180,1185,0.669987678527832
+58, Congestion - 21-day-old , Pediatrics - Neonatal,culture,TEST,1199,1206,0.9795457124710083
+58, Congestion - 21-day-old , Pediatrics - Neonatal,cell count,TEST,1211,1221,0.9819619655609131
+58, Congestion - 21-day-old , Pediatrics - Neonatal,This tap,TEST,1223,1231,0.49836432933807373
+58, Congestion - 21-day-old , Pediatrics - Neonatal,labs,TEST,1312,1316,0.9891146421432495
+58, Congestion - 21-day-old , Pediatrics - Neonatal,a urinalysis,TEST,1327,1339,0.9877817034721375
+58, Congestion - 21-day-old , Pediatrics - Neonatal,urine culture,TEST,1344,1357,0.9484789371490479
+58, Congestion - 21-day-old , Pediatrics - Neonatal,blood culture,TEST,1374,1387,0.9526299238204956
+58, Congestion - 21-day-old , Pediatrics - Neonatal,albuterol treatment,TREATMENT,1439,1458,0.9558051228523254
+58, Congestion - 21-day-old , Pediatrics - Neonatal,respiratory,PROBLEM,1483,1494,0.575737714767456
+58, Congestion - 21-day-old , Pediatrics - Neonatal,illness,PROBLEM,1638,1645,0.47893819212913513
+58, Congestion - 21-day-old , Pediatrics - Neonatal,cracked,PROBLEM,1675,1682,0.4624464809894562
+58, Congestion - 21-day-old , Pediatrics - Neonatal,bleeding,PROBLEM,1687,1695,0.5416685938835144
+58, Congestion - 21-day-old , Pediatrics - Neonatal,mild,PROBLEM,1764,1768,0.4897337257862091
+59, Circumcision - Newborn  , Pediatrics - Neonatal,Newborn circumcision,TREATMENT,13,33,0.6883339285850525
+59, Circumcision - Newborn  , Pediatrics - Neonatal,Dorsal penile nerve block,TREATMENT,84,109,0.9600396156311035
+59, Circumcision - Newborn  , Pediatrics - Neonatal,Lidocaine,TREATMENT,192,201,0.9984883069992065
+59, Circumcision - Newborn  , Pediatrics - Neonatal,epinephrine,TREATMENT,218,229,0.8788102865219116
+59, Circumcision - Newborn  , Pediatrics - Neonatal,penile foreskin,TREATMENT,304,319,0.9000990390777588
+59, Circumcision - Newborn  , Pediatrics - Neonatal,a XXX Gomco,TREATMENT,338,349,0.9635537266731262
+59, Circumcision - Newborn  , Pediatrics - Neonatal,Hemostasis,TREATMENT,351,361,0.9453557133674622
+59, Circumcision - Newborn  , Pediatrics - Neonatal,minimal blood loss,PROBLEM,380,398,0.8426620364189148
+59, Circumcision - Newborn  , Pediatrics - Neonatal,infection,PROBLEM,421,430,0.855391263961792
+59, Circumcision - Newborn  , Pediatrics - Neonatal,the procedure,TREATMENT,451,464,0.9649276733398438
+59, Circumcision - Newborn  , Pediatrics - Neonatal,Vaseline,TREATMENT,471,479,0.9974724650382996
+60, Circumcision - Child  , Pediatrics - Neonatal,procedure,TREATMENT,72,81,0.5618414878845215
+60, Circumcision - Child  , Pediatrics - Neonatal,povidone iodine solution,TREATMENT,229,253,0.9874565601348877
+60, Circumcision - Child  , Pediatrics - Neonatal,sterile drapes,TREATMENT,280,294,0.9890609383583069
+60, Circumcision - Child  , Pediatrics - Neonatal,procedure,TREATMENT,321,330,0.8079379200935364
+60, Circumcision - Child  , Pediatrics - Neonatal,sterile procedure,TREATMENT,345,362,0.9891324043273926
+60, Circumcision - Child  , Pediatrics - Neonatal,A dorsal penile block,TREATMENT,364,385,0.9231369495391846
+60, Circumcision - Child  , Pediatrics - Neonatal,injections,TREATMENT,403,413,0.697214663028717
+60, Circumcision - Child  , Pediatrics - Neonatal,% plain lidocaine,TREATMENT,431,448,0.8003527522087097
+60, Circumcision - Child  , Pediatrics - Neonatal,A dorsal slit,PROBLEM,450,463,0.5242589712142944
+60, Circumcision - Child  , Pediatrics - Neonatal,Gomco clamp,TREATMENT,536,547,0.8977676033973694
+60, Circumcision - Child  , Pediatrics - Neonatal,a # 10 blade,TREATMENT,640,651,0.5555537939071655
+60, Circumcision - Child  , Pediatrics - Neonatal,the clamp,TREATMENT,669,678,0.9427628517150879
+60, Circumcision - Child  , Pediatrics - Neonatal,bleeding,PROBLEM,721,729,0.9889154434204102
+60, Circumcision - Child  , Pediatrics - Neonatal,the procedure,TREATMENT,762,775,0.9392029047012329
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,Congestion,PROBLEM,19,29,0.9970940351486206
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,cough,PROBLEM,34,39,0.7284697890281677
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,a cold,PROBLEM,145,151,0.992469310760498
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,cough,PROBLEM,153,158,0.9974773526191711
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,runny nose,PROBLEM,164,174,0.9916544556617737
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,fever,PROBLEM,209,214,0.9911105632781982
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,difficulty breathing,PROBLEM,280,300,0.996328592300415
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,her cough,PROBLEM,305,314,0.9916261434555054
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,dry,PROBLEM,332,335,0.9828376770019531
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,hacky,PROBLEM,340,345,0.9568864107131958
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,physical exam,TEST,361,374,0.9959690570831299
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,a right TM,PROBLEM,382,392,0.825225830078125
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,congested,PROBLEM,442,451,0.8193466067314148
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,Amoxil,TREATMENT,501,507,0.9980351328849792
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,Aldex,TREATMENT,512,517,0.9931445121765137
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,difficulty breathing,PROBLEM,660,680,0.9938520193099976
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,congested,PROBLEM,700,709,0.7596487998962402
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,a,TEST,778,779,0.6631502509117126
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,temperature,PROBLEM,780,791,0.489315927028656
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,trouble sleeping,PROBLEM,829,845,0.9355207681655884
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,congestion,PROBLEM,859,869,0.9947890043258667
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,known drug allergies,PROBLEM,895,915,0.9403247833251953
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,Amoxil,TREATMENT,947,953,0.9861345887184143
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,Aldex,TREATMENT,958,963,0.9699856042861938
+61, Congestion & Cough - 5-month-Old , Pediatrics - Neonatal,her hearing screen,TEST,1229,1247,0.9631280899047852
+62, Chronic Otitis Media , Pediatrics - Neonatal,Chronic otitis media,PROBLEM,18,38,0.9806065559387207
+62, Chronic Otitis Media , Pediatrics - Neonatal,chronic recurrent episodes,PROBLEM,108,134,0.9877569079399109
+62, Chronic Otitis Media , Pediatrics - Neonatal,otitis media,PROBLEM,138,150,0.977839469909668
+62, Chronic Otitis Media , Pediatrics - Neonatal,antibiotics,TREATMENT,181,192,0.9956403970718384
+62, Chronic Otitis Media , Pediatrics - Neonatal,chronic nasal congestion,PROBLEM,231,255,0.9876706004142761
+62, Chronic Otitis Media , Pediatrics - Neonatal,spontaneous tympanic membrane perforation,PROBLEM,284,325,0.998460590839386
+62, Chronic Otitis Media , Pediatrics - Neonatal,elevations,PROBLEM,346,356,0.8616591691970825
+62, Chronic Otitis Media , Pediatrics - Neonatal,temperature,PROBLEM,360,371,0.4081088900566101
+62, Chronic Otitis Media , Pediatrics - Neonatal,the acute infection,PROBLEM,389,408,0.9858083128929138
+62, Chronic Otitis Media , Pediatrics - Neonatal,myringotomy,TREATMENT,448,459,0.9876940250396729
+62, Chronic Otitis Media , Pediatrics - Neonatal,tube insertion,TREATMENT,464,478,0.9731740355491638
+62, Chronic Otitis Media , Pediatrics - Neonatal,general facemask anesthesia,TREATMENT,485,512,0.9877983927726746
+62, Chronic Otitis Media , Pediatrics - Neonatal,Mild reflux,PROBLEM,605,616,0.9966073036193848
+62, Chronic Otitis Media , Pediatrics - Neonatal,poorly mobile tympanic membranes,PROBLEM,828,860,0.9662723541259766
+62, Chronic Otitis Media , Pediatrics - Neonatal,a middle ear effusion,PROBLEM,884,905,0.9767395853996277
+62, Chronic Otitis Media , Pediatrics - Neonatal,moderate inferior turbinate hypertrophy,PROBLEM,957,996,0.9864174127578735
+62, Chronic Otitis Media , Pediatrics - Neonatal,polyps,PROBLEM,1001,1007,0.9697745442390442
+62, Chronic Otitis Media , Pediatrics - Neonatal,purulence,PROBLEM,1011,1020,0.9938544034957886
+62, Chronic Otitis Media , Pediatrics - Neonatal,nodes,PROBLEM,1080,1085,0.9525009393692017
+62, Chronic Otitis Media , Pediatrics - Neonatal,masses,PROBLEM,1087,1093,0.9862579107284546
+62, Chronic Otitis Media , Pediatrics - Neonatal,thyromegaly,PROBLEM,1097,1108,0.9536760449409485
+62, Chronic Otitis Media , Pediatrics - Neonatal,murmurs,PROBLEM,1176,1183,0.8939981460571289
+62, Chronic Otitis Media , Pediatrics - Neonatal,nontender,PROBLEM,1205,1214,0.9160324931144714
+62, Chronic Otitis Media , Pediatrics - Neonatal,tube,PROBLEM,1272,1276,0.4756985902786255
+62, Chronic Otitis Media , Pediatrics - Neonatal,chronic,PROBLEM,1290,1297,0.9746941924095154
+62, Chronic Otitis Media , Pediatrics - Neonatal,media,PROBLEM,1305,1310,0.9827442765235901
+62, Chronic Otitis Media , Pediatrics - Neonatal,recurrent,PROBLEM,1326,1335,0.9436464309692383
+62, Chronic Otitis Media , Pediatrics - Neonatal,acute,PROBLEM,1336,1341,0.9621483683586121
+62, Chronic Otitis Media , Pediatrics - Neonatal,media,PROBLEM,1349,1354,0.9763292074203491
+62, Chronic Otitis Media , Pediatrics - Neonatal,accumulation,PROBLEM,1364,1376,0.5421841740608215
+62, Chronic Otitis Media , Pediatrics - Neonatal,tube insertion,PROBLEM,1456,1470,0.6216381192207336
+63, Broviac Catheter Placement , Pediatrics - Neonatal,Lumbar osteomyelitis,PROBLEM,27,47,0.9988036155700684
+63, Broviac Catheter Placement , Pediatrics - Neonatal,durable central intravenous access,TREATMENT,61,95,0.9820600748062134
+63, Broviac Catheter Placement , Pediatrics - Neonatal,Lumbar osteomyelitis,PROBLEM,125,145,0.998517632484436
+63, Broviac Catheter Placement , Pediatrics - Neonatal,durable central intravenous access,TREATMENT,159,193,0.9874616861343384
+63, Broviac Catheter Placement , Pediatrics - Neonatal,left subclavian 4 - French Broviac catheter,TREATMENT,242,283,0.9836713671684265
+63, Broviac Catheter Placement , Pediatrics - Neonatal,a limp,PROBLEM,338,344,0.9900784492492676
+63, Broviac Catheter Placement , Pediatrics - Neonatal,back pain,PROBLEM,349,358,0.9336152076721191
+63, Broviac Catheter Placement , Pediatrics - Neonatal,bone scan,TEST,388,397,0.9789148569107056
+63, Broviac Catheter Placement , Pediatrics - Neonatal,septic workup,TEST,402,415,0.7005687355995178
+63, Broviac Catheter Placement , Pediatrics - Neonatal,osteomyelitis of the lumbar spine at disk areas,PROBLEM,433,480,0.9364230632781982
+63, Broviac Catheter Placement , Pediatrics - Neonatal,prolonged,TREATMENT,500,509,0.941728413105011
+63, Broviac Catheter Placement , Pediatrics - Neonatal,IV antibiotic therapy,TREATMENT,510,531,0.8862765431404114
+63, Broviac Catheter Placement , Pediatrics - Neonatal,a PICC line,TREATMENT,548,559,0.9814634919166565
+63, Broviac Catheter Placement , Pediatrics - Neonatal,easy peripheral IV access routes,TREATMENT,598,630,0.9047471284866333
+63, Broviac Catheter Placement , Pediatrics - Neonatal,Broviac placement,TREATMENT,690,707,0.9870489835739136
+63, Broviac Catheter Placement , Pediatrics - Neonatal,Broviac placement,TREATMENT,809,826,0.9223934412002563
+63, Broviac Catheter Placement , Pediatrics - Neonatal,operation,TREATMENT,980,989,0.765625
+63, Broviac Catheter Placement , Pediatrics - Neonatal,OF,TREATMENT,1009,1011,0.8375565409660339
+63, Broviac Catheter Placement , Pediatrics - Neonatal,general anesthesia,TREATMENT,1098,1116,0.7972737550735474
+63, Broviac Catheter Placement , Pediatrics - Neonatal,Broviac catheter,TREATMENT,1265,1281,0.988897442817688
+63, Broviac Catheter Placement , Pediatrics - Neonatal,her skin,TREATMENT,1310,1318,0.7253307104110718
+63, Broviac Catheter Placement , Pediatrics - Neonatal,infraclavicular approach,TREATMENT,1384,1408,0.8418301343917847
+63, Broviac Catheter Placement , Pediatrics - Neonatal,left subclavian,TREATMENT,1412,1427,0.8689772486686707
+63, Broviac Catheter Placement , Pediatrics - Neonatal,central,TREATMENT,1491,1498,0.6734012961387634
+63, Broviac Catheter Placement , Pediatrics - Neonatal,catheter,TREATMENT,1536,1544,0.9664208292961121
+63, Broviac Catheter Placement , Pediatrics - Neonatal,subcutaneous,TREATMENT,1570,1582,0.6288690567016602
+63, Broviac Catheter Placement , Pediatrics - Neonatal,wall,TREATMENT,1636,1640,0.6867956519126892
+63, Broviac Catheter Placement , Pediatrics - Neonatal,pectoralis,TREATMENT,1682,1692,0.8477520942687988
+63, Broviac Catheter Placement , Pediatrics - Neonatal,margins,TREATMENT,1699,1706,0.6075916886329651
+63, Broviac Catheter Placement , Pediatrics - Neonatal,catheter,TREATMENT,1712,1720,0.9628871083259583
+63, Broviac Catheter Placement , Pediatrics - Neonatal,insertion,TREATMENT,1751,1760,0.6119213104248047
+63, Broviac Catheter Placement , Pediatrics - Neonatal,junction,TREATMENT,1811,1819,0.7767912149429321
+63, Broviac Catheter Placement , Pediatrics - Neonatal,vena cava,TREATMENT,1836,1845,0.8947646617889404
+63, Broviac Catheter Placement , Pediatrics - Neonatal,sheath,TREATMENT,1911,1917,0.910733699798584
+63, Broviac Catheter Placement , Pediatrics - Neonatal,catheter,TREATMENT,1970,1978,0.9488261342048645
+64, Chest Closure , Pediatrics - Neonatal,primary chest closure,TREATMENT,20,41,0.9832387566566467
+64, Chest Closure , Pediatrics - Neonatal,hypoplastic left heart syndrome,PROBLEM,101,132,0.9990297555923462
+64, Chest Closure , Pediatrics - Neonatal,current procedure,TREATMENT,159,176,0.7209930419921875
+64, Chest Closure , Pediatrics - Neonatal,a,TREATMENT,191,192,0.9492537975311279
+64, Chest Closure , Pediatrics - Neonatal,modified stage 1 Norwood operation,TREATMENT,193,227,0.9136651754379272
+64, Chest Closure , Pediatrics - Neonatal,operation,TREATMENT,256,265,0.8901643753051758
+64, Chest Closure , Pediatrics - Neonatal,postoperative management,TREATMENT,358,382,0.9527214169502258
+64, Chest Closure , Pediatrics - Neonatal,delayed primary chest closure,TREATMENT,431,460,0.9834500551223755
+64, Chest Closure , Pediatrics - Neonatal,modified stage 1 Norwood operation,TREATMENT,497,531,0.9332917332649231
+64, Chest Closure , Pediatrics - Neonatal,modified stage 1 Norwood operation,TREATMENT,568,602,0.8930414319038391
+64, Chest Closure , Pediatrics - Neonatal,intramediastinal purulence,PROBLEM,689,715,0.998455286026001
+64, Chest Closure , Pediatrics - Neonatal,hematoma,PROBLEM,719,727,0.9766896963119507
+64, Chest Closure , Pediatrics - Neonatal,the procedure,TREATMENT,742,755,0.7676852345466614
+64, Chest Closure , Pediatrics - Neonatal,general endotracheal anesthesia,TREATMENT,900,931,0.9828315377235413
+64, Chest Closure , Pediatrics - Neonatal,sterile,TREATMENT,979,986,0.8590258955955505
+64, Chest Closure , Pediatrics - Neonatal,AlloDerm membrane,TREATMENT,1018,1035,0.9118002653121948
+64, Chest Closure , Pediatrics - Neonatal,mediastinum,PROBLEM,1093,1104,0.9973340034484863
+64, Chest Closure , Pediatrics - Neonatal,drains,TREATMENT,1202,1208,0.9902665019035339
+64, Chest Closure , Pediatrics - Neonatal,the right atrial line,TREATMENT,1307,1328,0.876470685005188
+64, Chest Closure , Pediatrics - Neonatal,a vancomycin paste,TREATMENT,1364,1382,0.980994462966919
+64, Chest Closure , Pediatrics - Neonatal,RV -,TREATMENT,1416,1419,0.634210467338562
+64, Chest Closure , Pediatrics - Neonatal,conduit,TREATMENT,1422,1429,0.7840953469276428
+64, Chest Closure , Pediatrics - Neonatal,a small titanium clip,TREATMENT,1446,1467,0.9686349630355835
+64, Chest Closure , Pediatrics - Neonatal,inferior,TREATMENT,1475,1483,0.7812663912773132
+64, Chest Closure , Pediatrics - Neonatal,an,TREATMENT,1505,1507,0.513016402721405
+64, Chest Closure , Pediatrics - Neonatal,side,TREATMENT,1549,1553,0.48926112055778503
+64, Chest Closure , Pediatrics - Neonatal,steel wires,TREATMENT,1598,1609,0.7550047636032104
+64, Chest Closure , Pediatrics - Neonatal,closure,TREATMENT,1622,1629,0.9399243593215942
+64, Chest Closure , Pediatrics - Neonatal,monofilament stitches,TREATMENT,1671,1692,0.8755296468734741
+64, Chest Closure , Pediatrics - Neonatal,skin,TREATMENT,1698,1702,0.4551514983177185
+64, Chest Closure , Pediatrics - Neonatal,nylon sutures,TREATMENT,1731,1744,0.8269510269165039
+64, Chest Closure , Pediatrics - Neonatal,a sterile dressing,TREATMENT,1749,1767,0.8416450619697571
+64, Chest Closure , Pediatrics - Neonatal,peritoneal dialysis catheter,TREATMENT,1784,1812,0.8426817059516907
+64, Chest Closure , Pediatrics - Neonatal,ventricular pacing wires,TREATMENT,1825,1849,0.9272902607917786
+64, Chest Closure , Pediatrics - Neonatal,surgical attending,TREATMENT,1979,1997,0.6434323787689209
+64, Chest Closure , Pediatrics - Neonatal,charge,TREATMENT,2035,2041,0.879459023475647
+64, Chest Closure , Pediatrics - Neonatal,surgical procedure,TREATMENT,2049,2067,0.745339035987854
+65, 1-year-old Exam - H&P , Pediatrics - Neonatal,a health maintenance exam,TEST,60,85,0.9747049808502197
+65, 1-year-old Exam - H&P , Pediatrics - Neonatal,"s red, matted eye",PROBLEM,288,305,0.9002208709716797
+65, 1-year-old Exam - H&P , Pediatrics - Neonatal,known medical allergies,PROBLEM,847,870,0.9279599189758301
+65, 1-year-old Exam - H&P , Pediatrics - Neonatal,cancer,PROBLEM,1019,1025,0.9112163186073303
+65, 1-year-old Exam - H&P , Pediatrics - Neonatal,hypertension,PROBLEM,1057,1069,0.9978911280632019
+66, Atopic Eczema , Pediatrics - Neonatal,atopic eczema,PROBLEM,155,168,0.9985846281051636
+66, Atopic Eczema , Pediatrics - Neonatal,Elidel cream,TREATMENT,240,252,0.9776842594146729
+66, Atopic Eczema , Pediatrics - Neonatal,Johnson ' s Baby Oil,TREATMENT,386,404,0.8434770703315735
+66, Atopic Eczema , Pediatrics - Neonatal,eczema,PROBLEM,550,556,0.9985635876655579
+66, Atopic Eczema , Pediatrics - Neonatal,atopic,PROBLEM,572,578,0.8950509428977966
+66, Atopic Eczema , Pediatrics - Neonatal,psoriasis,PROBLEM,598,607,0.9986581802368164
+66, Atopic Eczema , Pediatrics - Neonatal,known drug allergies,PROBLEM,612,632,0.9756738543510437
+66, Atopic Eczema , Pediatrics - Neonatal,eczematous changes,PROBLEM,701,719,0.99833083152771
+66, Atopic Eczema , Pediatrics - Neonatal,face,PROBLEM,733,737,0.6077743172645569
+66, Atopic Eczema , Pediatrics - Neonatal,Atopic eczema,PROBLEM,776,789,0.9977747201919556
+66, Atopic Eczema , Pediatrics - Neonatal,soapy water,TREATMENT,902,913,0.8133507370948792
+66, Atopic Eczema , Pediatrics - Neonatal,Polysporin,TREATMENT,977,987,0.9904278516769409
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,cough,PROBLEM,41,46,0.9976902008056641
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,cough,PROBLEM,139,144,0.988425612449646
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,cough,PROBLEM,167,172,0.9849130511283875
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,viral infection,PROBLEM,235,250,0.9976001977920532
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,Tylenol,TREATMENT,264,271,0.9984773993492126
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,cough,PROBLEM,296,301,0.9627861976623535
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,fever,PROBLEM,339,344,0.9912277460098267
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,vomiting,PROBLEM,396,404,0.9938600063323975
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,diarrhea,PROBLEM,409,417,0.998557984828949
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,runny nose,PROBLEM,426,436,0.9936632513999939
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,the cough,PROBLEM,450,459,0.9754908084869385
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,skin rash,PROBLEM,477,486,0.997093677520752
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,cyanosis,PROBLEM,491,499,0.9987313151359558
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,feeding problem,PROBLEM,862,877,0.6236125230789185
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,complications,PROBLEM,967,980,0.922637403011322
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,steroids,TREATMENT,1126,1134,0.9865421056747437
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,asthma,PROBLEM,1180,1186,0.9984750151634216
+67, A 5-month-old boy with cough , Pediatrics - Neonatal,lung disease,PROBLEM,1190,1202,0.9931215047836304
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,have,PROBLEM,113,117,0.7148253321647644
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,asthma,PROBLEM,118,124,0.9976072311401367
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,wheezing,PROBLEM,153,161,0.9976857900619507
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,coughing,PROBLEM,166,174,0.9945273995399475
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,the breathing treatment,TREATMENT,253,276,0.9781649112701416
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,asthma,PROBLEM,313,319,0.9986907839775085
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,prednisone,TREATMENT,332,342,0.9988524913787842
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,an antibiotic,TREATMENT,347,360,0.9937949180603027
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,some vomiting,PROBLEM,416,429,0.9603379368782043
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,some abdominal pain,PROBLEM,434,453,0.9897344708442688
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,His peak flows,TEST,455,469,0.9415414929389954
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Asthma,PROBLEM,630,636,0.9905450344085693
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,frequent pneumonia,PROBLEM,691,709,0.9902997016906738
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Advair,TREATMENT,785,791,0.9964156150817871
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Nasonex,TREATMENT,793,800,0.9960054755210876
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Xopenex,TREATMENT,802,809,0.9904725551605225
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Zicam,TREATMENT,811,816,0.9898293614387512
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Zithromax,TREATMENT,818,827,0.9962579011917114
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,prednisone,TREATMENT,829,839,0.9971217513084412
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,albuterol,TREATMENT,845,854,0.9950063228607178
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,Temperature,TREATMENT,1145,1156,0.8758147358894348
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,pulse,TEST,1163,1168,0.9329134821891785
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,respiration,TEST,1174,1185,0.9923409223556519
+68, Asthma in a 5-year-old , Pediatrics - Neonatal,blood pressure,TEST,1193,1207,0.9882458448410034
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,The flexible bronchoscopy,TEST,22,47,0.9742173552513123
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,conscious sedation,TREATMENT,67,85,0.9938700199127197
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,irritation of the nasal mucosa,PROBLEM,184,214,0.9166560173034668
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,some bleeding,PROBLEM,245,258,0.9783714413642883
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,contamination,PROBLEM,268,281,0.6445164084434509
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,the lower airways,PROBLEM,285,302,0.7610092759132385
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,the scope,TREATMENT,317,326,0.9329155683517456
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,respiratory depression from,PROBLEM,347,374,0.8590419888496399
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,sedation,TREATMENT,375,383,0.6823481321334839
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,a very small risk,PROBLEM,389,406,0.7322253584861755
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,pneumothorax,PROBLEM,410,422,0.9494385719299316
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,A bronchoalveolar lavage,TEST,424,448,0.9907205700874329
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,normal saline,TREATMENT,478,491,0.9900556206703186
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,fluid,PROBLEM,533,538,0.584441602230072
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,The,TEST,545,548,0.6936352252960205
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,The flexible bronchoscopy,TEST,587,612,0.92169588804245
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,therapeutic intervention,TREATMENT,639,663,0.7706506252288818
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,procedure,TREATMENT,730,739,0.8765138983726501
+69, Bronchoscopy - Pediatric , Pediatrics - Neonatal,the procedure,TREATMENT,891,904,0.8512688875198364
